@@ -1,0 +1,1242 @@
+Carcinoma, Papillary	Cerebral Amyloid Angiopathy
+Ciliary Motility Disorders	Leishmaniasis, Visceral
+Esophageal Neoplasms	Sjogren's Syndrome
+Stomach Neoplasms	Ovarian Diseases
+Hypocalcemia	MELAS Syndrome
+Epilepsy, Generalized	Mitochondrial Encephalomyopathies
+Homocystinuria	Anus, Imperforate
+Brain Diseases	Ovarian Hyperstimulation Syndrome
+MELAS Syndrome	Rectal Neoplasms
+Septo-Optic Dysplasia	Torsades de Pointes
+Myopia	Fanconi Anemia
+Cholangitis, Sclerosing	MELAS Syndrome
+MELAS Syndrome	Osteomalacia
+Colonic Neoplasms	Aortic Aneurysm
+MELAS Syndrome	Ovarian Hyperstimulation Syndrome
+Multiple Sclerosis	Panic Disorder
+Epidermolysis Bullosa	Wolff-Parkinson-White Syndrome
+Autoimmune Diseases	Carcinoma, Papillary
+Tracheoesophageal Fistula	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Neuronal Ceroid-Lipofuscinoses
+Ciliary Motility Disorders	Homocystinuria
+Blindness, Cortical	Kallmann Syndrome
+MELAS Syndrome	Polyuria
+Hepatitis, Autoimmune	MELAS Syndrome
+Vasculitis	Addison Disease
+Gastrinoma	MELAS Syndrome
+Amelogenesis Imperfecta	Oligospermia
+Albinism, Oculocutaneous	Multiple Organ Failure
+Papilloma	Uveitis
+Tuberous Sclerosis	Sarcoma
+Prolactinoma	Cerebellar Diseases
+MELAS Syndrome	Sleep Apnea, Obstructive
+Ciliary Motility Disorders	Cytochrome-c Oxidase Deficiency
+Papilloma	DiGeorge Syndrome
+Cystic Fibrosis	Demyelinating Diseases
+Ciliary Motility Disorders	Liver Failure, Acute
+Hypospadias	Wolff-Parkinson-White Syndrome
+Arthritis, Psoriatic	MELAS Syndrome
+Addison Disease	Ciliary Motility Disorders
+Bronchiolitis Obliterans	MELAS Syndrome
+Ileitis	Leigh Disease
+Meningioma	Polydactyly
+Ciliary Motility Disorders	Spinal Cord Diseases
+Esophageal Atresia	Polyuria
+Hypospadias	Opioid-Related Disorders
+Hypokalemia	Hemangioma
+Personality Disorders	Hepatic Encephalopathy
+Stomach Neoplasms	Graves Disease
+Acne Vulgaris	MELAS Syndrome
+Acne Vulgaris	Glycogen Storage Disease
+Albinism, Oculocutaneous	Skin Diseases, Genetic
+Neurofibromatosis 2	Cerebral Amyloid Angiopathy
+MELAS Syndrome	Pancreatic Diseases
+Alopecia Areata	MELAS Syndrome
+Blindness, Cortical	Pneumococcal Infections
+Appendicitis	Congenital Disorders of Glycosylation
+Lung Diseases, Interstitial	Neoplasms, Radiation-Induced
+Abortion, Habitual	Ciliary Motility Disorders
+Bacteremia	Ciliary Motility Disorders
+Brain Diseases	Pancreatic Diseases
+Agammaglobulinemia	Amino Acid Metabolism, Inborn Errors
+Leigh Disease	Myopathies, Nemaline
+Ciliary Motility Disorders	Polyendocrinopathies, Autoimmune
+Agranulocytosis	Ciliary Motility Disorders
+Hyperlipoproteinemia Type I	Myopathies, Nemaline
+Hypersensitivity	Fabry Disease
+Myopathies, Nemaline	Tracheoesophageal Fistula
+Anemia, Megaloblastic	Septo-Optic Dysplasia
+Arthritis	Blood Coagulation Disorders
+Hemangioma	Reperfusion Injury
+Epilepsy, Generalized	Oral Ulcer
+Mitochondrial Encephalomyopathies	Oligospermia
+Blindness, Cortical	Stomach Diseases
+Insulin Resistance	Multiple Organ Failure
+Nevus	Anus, Imperforate
+Ciliary Motility Disorders	Coronary Restenosis
+Muscular Dystrophy, Emery-Dreifuss	Opioid-Related Disorders
+Stomach Neoplasms	Hepatic Veno-Occlusive Disease
+Cerebellar Diseases	Rubinstein-Taybi Syndrome
+Heart Diseases	Fibromatosis, Aggressive
+Adenoma	Infarction, Middle Cerebral Artery
+Myositis	Hepatic Veno-Occlusive Disease
+Muscular Dystrophy, Emery-Dreifuss	Wolff-Parkinson-White Syndrome
+Prostatic Neoplasms	Migraine Disorders
+Ciliary Motility Disorders	Syncope
+Blindness, Cortical	Meningococcal Infections
+Wiskott-Aldrich Syndrome	Hypothyroidism
+Acidosis, Lactic	Vitamin A Deficiency
+Prion Diseases	Retinitis Pigmentosa
+Arrhythmogenic Right Ventricular Dysplasia	MELAS Syndrome
+Ciliary Motility Disorders	Epilepsy, Generalized
+Esophageal Atresia	Opioid-Related Disorders
+Hydrops Fetalis	Opioid-Related Disorders
+Chromosome Breakage	Exfoliation Syndrome
+Intestinal Neoplasms	Thrombocythemia, Essential
+Choanal Atresia	Wolff-Parkinson-White Syndrome
+Hypotension	Diabetic Retinopathy
+Acidosis, Lactic	Precancerous Conditions
+Ciliary Motility Disorders	Common Variable Immunodeficiency
+MELAS Syndrome	Nasopharyngeal Neoplasms
+Bardet-Biedl Syndrome	Opioid-Related Disorders
+Ciliary Motility Disorders	Erythema
+Blindness, Cortical	Rectal Fistula
+Congenital Disorders of Glycosylation	Hypotrichosis
+Liver Cirrhosis	Enterocolitis
+Blindness, Cortical	Pleural Diseases
+Congenital Disorders of Glycosylation	Muscular Dystrophy, Oculopharyngeal
+Blindness, Cortical	Candidiasis, Chronic Mucocutaneous
+Ciliary Motility Disorders	Dry Eye Syndromes
+Atrial Fibrillation	Infertility
+Lymphedema	Autistic Disorder
+Muscular Dystrophies, Limb-Girdle	Opioid-Related Disorders
+Albinism, Oculocutaneous	Bardet-Biedl Syndrome
+Collagen Diseases	Protein C Deficiency
+Aortic Rupture	Ciliary Motility Disorders
+Hypotension, Orthostatic	MELAS Syndrome
+Amblyopia	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Hypohidrosis
+Mitochondrial Encephalomyopathies	Wolff-Parkinson-White Syndrome
+MELAS Syndrome	Microvascular Angina
+Ciliary Motility Disorders	Gout
+Ciliary Motility Disorders	Thrombocytosis
+Ciliary Motility Disorders	Lung Diseases, Interstitial
+Amelogenesis Imperfecta	Candidiasis, Chronic Mucocutaneous
+Lipoma	Choroideremia
+Lung Neoplasms	Epilepsies, Partial
+Medulloblastoma	Neoplasm Invasiveness
+MELAS Syndrome	Telangiectasis
+Ciliary Motility Disorders	Retinal Dystrophies
+Ciliary Motility Disorders	Myositis
+Demyelinating Diseases	Wiskott-Aldrich Syndrome
+Periodontitis	Open Bite
+MELAS Syndrome	Purpura
+Disorders of Sex Development	Wolff-Parkinson-White Syndrome
+Carcinoma, Pancreatic Ductal	MELAS Syndrome
+Ciliary Motility Disorders	Enterocolitis
+Hypothyroidism	Seminoma
+Albinism, Oculocutaneous	Epilepsy, Rolandic
+Cytochrome-c Oxidase Deficiency	Ovarian Hyperstimulation Syndrome
+Ciliary Motility Disorders	Disseminated Intravascular Coagulation
+Amelogenesis Imperfecta	Heart Septal Defects
+Collagen Diseases	Congenital Disorders of Glycosylation
+Glioma	Synovitis
+MELAS Syndrome	Respiration Disorders
+Ciliary Motility Disorders	Myoclonic Epilepsy, Juvenile
+Ciliary Motility Disorders	Lipid Metabolism Disorders
+Brucellosis	Respiratory Hypersensitivity
+Ischemia	Carcinoma, Small Cell
+Lymphoma	Cardiomyopathy, Hypertrophic, Familial
+Ciliary Motility Disorders	Leishmaniasis
+Leishmaniasis	Myopathies, Nemaline
+Angioedemas, Hereditary	Mitochondrial Encephalomyopathies
+Cytochrome-c Oxidase Deficiency	Gitelman Syndrome
+Bacterial Infections	Fetal Growth Retardation
+Pheochromocytoma	Lipid Metabolism Disorders
+Chediak-Higashi Syndrome	Tracheoesophageal Fistula
+Neoplasm Metastasis	Tetralogy of Fallot
+Mesothelioma	Liver Neoplasms, Experimental
+Mitochondrial Diseases	Wolff-Parkinson-White Syndrome
+Meningioma	Prostatic Neoplasms
+Chediak-Higashi Syndrome	Myopathies, Nemaline
+Bacteremia	Idiopathic Pulmonary Fibrosis
+Blindness, Cortical	Oligospermia
+Myopathies, Nemaline	Subacute Sclerosing Panencephalitis
+Burkitt Lymphoma	Multiple Endocrine Neoplasia Type 1
+Albinism, Oculocutaneous	Blindness, Cortical
+Duodenal Ulcer	Myopathies, Nemaline
+Blindness, Cortical	Granuloma
+Bardet-Biedl Syndrome	Myoclonic Epilepsy, Juvenile
+Ischemia	Vitamin A Deficiency
+Appendicitis	Cytochrome-c Oxidase Deficiency
+Congenital Disorders of Glycosylation	Myopathies, Nemaline
+Urticaria	Carcinoma, Small Cell
+Collagen Diseases	Oculocerebrorenal Syndrome
+Intestinal Neoplasms	Wiskott-Aldrich Syndrome
+Lipid Metabolism Disorders	MELAS Syndrome
+Ciliary Motility Disorders	Lung Injury
+Ciliary Motility Disorders	Hyperandrogenism
+Bone Diseases	Restless Legs Syndrome
+Epilepsies, Myoclonic	Polycythemia Vera
+Anemia, Megaloblastic	Myopia
+Ciliary Motility Disorders	Dermatomyositis
+Behcet Syndrome	Tobacco Use Disorder
+Hematologic Neoplasms	MELAS Syndrome
+Opioid-Related Disorders	Spastic Paraplegia, Hereditary
+Esophageal Neoplasms	Blood Coagulation Disorders
+Congenital Disorders of Glycosylation	MELAS Syndrome
+Appendicitis	Leigh Disease
+Cerebral Infarction	Parkinsonian Disorders
+Lipoma	Bipolar Disorder
+MELAS Syndrome	Rubinstein-Taybi Syndrome
+Cholangitis, Sclerosing	Ciliary Motility Disorders
+Megacolon	Unverricht-Lundborg Syndrome
+Ciliary Motility Disorders	Memory Disorders
+MELAS Syndrome	X-Linked Combined Immunodeficiency Diseases
+Collagen Diseases	Spastic Paraplegia, Hereditary
+Ciliary Motility Disorders	Multiple Organ Failure
+Acquired Immunodeficiency Syndrome	Bronchiectasis
+Osteochondrodysplasias	Hepatolenticular Degeneration
+Anemia, Megaloblastic	Carcinoma, Small Cell
+Blindness, Cortical	Choanal Atresia
+Cytomegalovirus Infections	Prostatic Neoplasms
+Skin Abnormalities	Hepatolenticular Degeneration
+Appendicitis	MELAS Syndrome
+Ciliary Motility Disorders	Epilepsy, Rolandic
+Diabetes Insipidus	MELAS Syndrome
+Ciliary Motility Disorders	Disorders of Sex Development
+MELAS Syndrome	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Ciliary Motility Disorders	Congenital Disorders of Glycosylation
+Metabolic Syndrome X	Conjunctivitis
+Glioma	Gastrointestinal Diseases
+Angelman Syndrome	Ciliary Motility Disorders
+Blindness, Cortical	Wolff-Parkinson-White Syndrome
+Multiple Organ Failure	Amino Acid Metabolism, Inborn Errors
+Amino Acid Metabolism, Inborn Errors	Multiple Organ Failure
+Epilepsies, Myoclonic	Myopathies, Nemaline
+Congenital Disorders of Glycosylation	Septo-Optic Dysplasia
+Blindness, Cortical	Glycogen Storage Disease
+Collagen Diseases	Mitochondrial Encephalomyopathies
+Nail Diseases	Opioid-Related Disorders
+Staphylococcal Infections	Endometrial Neoplasms
+Ciliary Motility Disorders	Nail Diseases
+Hypotension	Nail Diseases
+Ciliary Motility Disorders	Hyperlipoproteinemias
+Ciliary Motility Disorders	Vasculitis
+MELAS Syndrome	Muscular Dystrophy, Emery-Dreifuss
+Ciliary Motility Disorders	Measles
+Contracture	Retinoblastoma
+Aneurysm, Dissecting	Neurofibromatosis 2
+Hepatitis B, Chronic	Pulmonary Fibrosis
+MELAS Syndrome	Thymus Neoplasms
+Hyponatremia	Schizophrenia
+Ciliary Motility Disorders	Respiratory Hypersensitivity
+Asthma	Cushing Syndrome
+Eye Abnormalities	MELAS Syndrome
+Connective Tissue Diseases	Hyperinsulinism
+Neoplasm Metastasis	Iron Overload
+Leukemia, T-Cell	MELAS Syndrome
+Prostatic Neoplasms	Bipolar Disorder
+Acanthosis Nigricans	MELAS Syndrome
+Osteoporosis	Skin Abnormalities
+Myocardial Reperfusion Injury	Achondroplasia
+Blindness, Cortical	Conjunctivitis
+MELAS Syndrome	Thyroid Hormone Resistance Syndrome
+Atherosclerosis	Asthma
+Anxiety Disorders	Neuroendocrine Tumors
+Amelogenesis Imperfecta	Ciliary Motility Disorders
+Carotid Artery Diseases	Pre-Eclampsia
+Hypertriglyceridemia	Blood Coagulation Disorders
+Agammaglobulinemia	Blindness, Cortical
+Hemophilia A	MELAS Syndrome
+Microcephaly	Hypoxia-Ischemia, Brain
+Alopecia Areata	Blindness, Cortical
+Ciliary Motility Disorders	Ileitis
+Blindness, Cortical	Chediak-Higashi Syndrome
+MELAS Syndrome	Speech Disorders
+Leber Congenital Amaurosis	Wolff-Parkinson-White Syndrome
+Liver Failure, Acute	Aneurysm, Dissecting
+Lymphopenia	Hypocalcemia
+Ciliary Motility Disorders	Fetal Membranes, Premature Rupture
+Plagiocephaly, Nonsynostotic	Wolff-Parkinson-White Syndrome
+Rhabdomyosarcoma	Celiac Disease
+Candidiasis, Chronic Mucocutaneous	Leigh Disease
+Candidiasis, Chronic Mucocutaneous	Myopathies, Nemaline
+Ciliary Motility Disorders	Skin Diseases, Genetic
+Ciliary Motility Disorders	Porphyria Cutanea Tarda
+Amenorrhea	Kallmann Syndrome
+Atrioventricular Block	MELAS Syndrome
+Amenorrhea	Leukopenia
+Respiratory Distress Syndrome, Adult	Metabolic Diseases
+Progeria	Gonadal Dysgenesis
+Esophagitis	MELAS Syndrome
+Opioid-Related Disorders	Pelizaeus-Merzbacher Disease
+Myoclonic Epilepsy, Juvenile	Spinal Diseases
+Esophageal Atresia	Unverricht-Lundborg Syndrome
+MELAS Syndrome	Osteopetrosis
+Epidermolysis Bullosa	MELAS Syndrome
+Ciliary Motility Disorders	Hemolytic-Uremic Syndrome
+Splenomegaly	Acidosis, Lactic
+Ciliary Motility Disorders	Retinal Vein Occlusion
+Ciliary Motility Disorders	Thyroid Hormone Resistance Syndrome
+Lymphoma, T-Cell, Cutaneous	MELAS Syndrome
+Ciliary Motility Disorders	Hypotrichosis
+Ciliary Motility Disorders	Glomerulonephritis, Membranoproliferative
+Neuroblastoma	Motor Neuron Disease
+Amino Acid Metabolism, Inborn Errors	X-Linked Combined Immunodeficiency Diseases
+Dandy-Walker Syndrome	Myopathies, Nemaline
+Ciliary Motility Disorders	Gitelman Syndrome
+Down Syndrome	Respiration Disorders
+Anemia, Macrocytic	Wolff-Parkinson-White Syndrome
+Acidosis, Lactic	Anophthalmos
+Ciliary Motility Disorders	Limb Deformities, Congenital
+Dyskeratosis Congenita	MELAS Syndrome
+Choroidal Neovascularization	Mitochondrial Encephalomyopathies
+Epilepsies, Myoclonic	Venous Thrombosis
+Blindness, Cortical	Collagen Diseases
+Craniofacial Abnormalities	Epilepsy, Temporal Lobe
+Autoimmune Lymphoproliferative Syndrome	MELAS Syndrome
+Cytochrome-c Oxidase Deficiency	Granuloma
+Graves Disease	Failure to Thrive
+Appendicitis	Blindness, Cortical
+Malaria	Hemangiosarcoma
+Behcet Syndrome	Epilepsy, Temporal Lobe
+Diabetes Mellitus	Retinitis Pigmentosa
+Hypotrichosis	Opioid-Related Disorders
+MELAS Syndrome	Stomach Diseases
+Spinal Cord Diseases	Nasopharyngeal Neoplasms
+Mastocytosis, Systemic	MELAS Syndrome
+Choroidal Neovascularization	Cytochrome-c Oxidase Deficiency
+Ophthalmoplegia	Opioid-Related Disorders
+Brain Neoplasms	Skin Diseases, Genetic
+Helicobacter Infections	MELAS Syndrome
+Alopecia Areata	Cytochrome-c Oxidase Deficiency
+Hyperglycemia	Rectal Neoplasms
+Blindness, Cortical	X-Linked Combined Immunodeficiency Diseases
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	Lymphopenia
+Ciliary Motility Disorders	Diabetic Neuropathies
+MELAS Syndrome	Vitamin A Deficiency
+Hypoxia-Ischemia, Brain	Failure to Thrive
+Multiple System Atrophy	Prion Diseases
+Chromosome Breakage	Wolff-Parkinson-White Syndrome
+Blindness, Cortical	Enterocolitis
+Albinism, Oculocutaneous	Ventricular Fibrillation
+Liver Cirrhosis	Kidney Calculi
+Syncope	Aneurysm, Dissecting
+Liver Cirrhosis	Cystadenocarcinoma, Serous
+Hyperopia	Septo-Optic Dysplasia
+Arsenic Poisoning	MELAS Syndrome
+Ciliary Motility Disorders	Sleep Apnea, Central
+Retinoblastoma	Rickets
+Hypersensitivity	Acute Coronary Syndrome
+Carpal Tunnel Syndrome	Ciliary Motility Disorders
+MELAS Syndrome	Seminoma
+Ciliary Motility Disorders	Gastrointestinal Diseases
+Amelogenesis Imperfecta	Mitochondrial Diseases
+MELAS Syndrome	Thrombocytosis
+Prion Diseases	Muscular Dystrophy, Facioscapulohumeral
+Oligospermia	Rhabdoid Tumor
+Agammaglobulinemia	Autoimmune Lymphoproliferative Syndrome
+Cytochrome-c Oxidase Deficiency	Nephritis
+MELAS Syndrome	Syndactyly
+Esophageal Atresia	Myoclonic Epilepsy, Juvenile
+Dyskeratosis Congenita	Wolff-Parkinson-White Syndrome
+Tachycardia	Reperfusion Injury
+Developmental Disabilities	Rhabdomyosarcoma
+Arthritis	Lymphoproliferative Disorders
+Ciliary Motility Disorders	Tachycardia, Ventricular
+Hypoglycemia	Motor Neuron Disease
+Dyskeratosis Congenita	Opioid-Related Disorders
+Ciliary Motility Disorders	MELAS Syndrome
+Hypercholesterolemia	Holoprosencephaly
+MELAS Syndrome	Truncus Arteriosus, Persistent
+Cataract	Contracture
+Amino Acid Metabolism, Inborn Errors	Blindness, Cortical
+Carpal Tunnel Syndrome	MELAS Syndrome
+Chromosome Aberrations	MELAS Syndrome
+Albinism, Oculocutaneous	Heart Septal Defects
+Heart Septal Defects	Leigh Disease
+Bulimia Nervosa	Ciliary Motility Disorders
+Amelogenesis Imperfecta	Wolff-Parkinson-White Syndrome
+Asthma	Hypothyroidism
+Mental Retardation	Amenorrhea
+Choanal Atresia	MELAS Syndrome
+Amelogenesis Imperfecta	Sialorrhea
+Megacolon	MELAS Syndrome
+Mitochondrial Encephalomyopathies	Thromboembolism
+Blindness, Cortical	Esophagitis
+Ophthalmoplegia	Pelizaeus-Merzbacher Disease
+Carotid Stenosis	Ciliary Motility Disorders
+Cholangitis, Sclerosing	Cytochrome-c Oxidase Deficiency
+Brain Ischemia	Torsades de Pointes
+Amelogenesis Imperfecta	Cytochrome-c Oxidase Deficiency
+Leigh Disease	Septo-Optic Dysplasia
+MELAS Syndrome	Multiple Sclerosis, Relapsing-Remitting
+Myopathies, Nemaline	Septo-Optic Dysplasia
+Goiter	Diabetes Mellitus
+Ciliary Motility Disorders	Hyperhomocysteinemia
+Hyperammonemia	Wolff-Parkinson-White Syndrome
+Chorea	Neurotoxicity Syndromes
+Cardiomyopathies	Polycystic Ovary Syndrome
+Choroideremia	Oral Ulcer
+Ciliary Motility Disorders	Ventricular Fibrillation
+Acne Vulgaris	Ciliary Motility Disorders
+Conjunctivitis	Myopathies, Nemaline
+Ciliary Motility Disorders	Opioid-Related Disorders
+Ischemia	Dermatomyositis
+MELAS Syndrome	Vesico-Ureteral Reflux
+Chediak-Higashi Syndrome	Nail Diseases
+Uterine Neoplasms	Beckwith-Wiedemann Syndrome
+Dyslexia	MELAS Syndrome
+Alopecia	Skin Ulcer
+Ciliary Motility Disorders	Uveitis
+Ciliary Motility Disorders	Wolff-Parkinson-White Syndrome
+Myasthenia Gravis	Tracheoesophageal Fistula
+Klinefelter Syndrome	Acne Vulgaris
+Ciliary Motility Disorders	Hernia
+Conjunctivitis	MELAS Syndrome
+Essential Tremor	Brain Neoplasms
+Blindness, Cortical	Septo-Optic Dysplasia
+Blindness, Cortical	Disseminated Intravascular Coagulation
+Chediak-Higashi Syndrome	Congenital Disorders of Glycosylation
+Cushing Syndrome	Inflammatory Bowel Diseases
+Hypohidrosis	Mental Retardation, X-Linked
+Choroideremia	Opioid-Related Disorders
+Dystonia	Moyamoya Disease
+Mitochondrial Encephalomyopathies	Ovarian Hyperstimulation Syndrome
+Brain Neoplasms	Respiratory Distress Syndrome, Adult
+Lipid Metabolism Disorders	Myopathies, Nemaline
+Ciliary Motility Disorders	Oral Ulcer
+Hamartoma	MELAS Syndrome
+Tachycardia	Primary Myelofibrosis
+Muscular Dystrophy, Emery-Dreifuss	Hodgkin Disease
+MELAS Syndrome	Romano-Ward Syndrome
+Anemia, Diamond-Blackfan	Congenital Disorders of Glycosylation
+MELAS Syndrome	Multiple Organ Failure
+Ciliary Motility Disorders	Gonadal Dysgenesis
+Brain Diseases	Muscle Weakness
+Collagen Diseases	Cholelithiasis
+Amino Acid Metabolism, Inborn Errors	Ciliary Motility Disorders
+Meningococcal Infections	Mitochondrial Encephalomyopathies
+MELAS Syndrome	Septo-Optic Dysplasia
+Epilepsies, Myoclonic	Aortic Valve Stenosis
+MELAS Syndrome	Torsades de Pointes
+MELAS Syndrome	Meningococcal Infections
+Blindness, Cortical	Subacute Sclerosing Panencephalitis
+Bronchiectasis	MELAS Syndrome
+Leigh Disease	Rickets
+Ciliary Motility Disorders	Femur Head Necrosis
+Hyperglycemia	Heart Septal Defects
+Agammaglobulinemia	Leigh Disease
+Kartagener Syndrome	MELAS Syndrome
+Agammaglobulinemia	Myopathies, Nemaline
+Headache	Pterygium
+Chediak-Higashi Syndrome	Ciliary Motility Disorders
+Hyperparathyroidism, Primary	MELAS Syndrome
+Aniridia	Chediak-Higashi Syndrome
+Tachycardia	Gingival Hyperplasia
+Amelogenesis Imperfecta	Dyskeratosis Congenita
+Hyperaldosteronism	MELAS Syndrome
+Head and Neck Neoplasms	Hyperhomocysteinemia
+Anophthalmos	MELAS Syndrome
+Osteopetrosis	Hemorrhage
+MELAS Syndrome	Nail Diseases
+Agammaglobulinemia	MELAS Syndrome
+Ciliary Motility Disorders	Granuloma
+Anus, Imperforate	Wolff-Parkinson-White Syndrome
+Hemochromatosis	Myocardial Reperfusion Injury
+Opioid-Related Disorders	Romano-Ward Syndrome
+MELAS Syndrome	Opioid-Related Disorders
+Kidney Diseases	Tuberculosis
+Leprosy	Dermatitis
+Hernia	Myxoma
+Albinism, Oculocutaneous	Hypergammaglobulinemia
+Retinoblastoma	Pulmonary Embolism
+Wolff-Parkinson-White Syndrome	Aortic Aneurysm, Thoracic
+Diabetic Cardiomyopathies	MELAS Syndrome
+Carcinoma, Large Cell	MELAS Syndrome
+Ciliary Motility Disorders	Polyuria
+Hyperalgesia	MELAS Syndrome
+MELAS Syndrome	Wolff-Parkinson-White Syndrome
+Anophthalmos	Blindness, Cortical
+Iron Overload	Myopathies, Nemaline
+Ciliary Motility Disorders	Synovitis
+Albinism, Oculocutaneous	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Megacolon
+Cardiomyopathies	Muscular Atrophy
+MELAS Syndrome	Plagiocephaly, Nonsynostotic
+Liver Cirrhosis	Pterygium
+Epilepsy, Generalized	MELAS Syndrome
+Hypospadias	Myopathies, Nemaline
+Malaria	Arthritis, Psoriatic
+Hepatic Encephalopathy	Ventricular Fibrillation
+Vasculitis	Hashimoto Disease
+MELAS Syndrome	Respiratory Tract Infections
+MELAS Syndrome	Respiratory Distress Syndrome, Newborn
+Nephrocalcinosis	Wolff-Parkinson-White Syndrome
+Neuroblastoma	Blood Coagulation Disorders
+Blindness, Cortical	Oral Ulcer
+MELAS Syndrome	Oral Ulcer
+HIV Infections	Periodontitis
+Opioid-Related Disorders	Optic Atrophy, Hereditary, Leber
+Chediak-Higashi Syndrome	Muscular Dystrophies, Limb-Girdle
+Multiple Sclerosis	Alcohol Withdrawal Delirium
+Ciliary Motility Disorders	Rhabdomyolysis
+Ileitis	Hypertriglyceridemia
+Ciliary Motility Disorders	Coronary Aneurysm
+Congenital Disorders of Glycosylation	Kallmann Syndrome
+Blindness, Cortical	Pelizaeus-Merzbacher Disease
+Mesothelioma	Cholangitis, Sclerosing
+Amyloidosis	Ventricular Fibrillation
+Skin Neoplasms	Myocardial Reperfusion Injury
+Ciliary Motility Disorders	Zellweger Syndrome
+Anophthalmos	Cytochrome-c Oxidase Deficiency
+Metabolic Syndrome X	Nephritis, Interstitial
+Conjunctivitis	Neurofibromatosis 1
+Dwarfism	Thromboembolism
+Hepatolenticular Degeneration	Menkes Kinky Hair Syndrome
+Nerve Degeneration	Rickets
+Crohn Disease	Arteriosclerosis
+Tongue Neoplasms	Long QT Syndrome
+Ciliary Motility Disorders	Glycogen Storage Disease
+Carotid Stenosis	Heroin Dependence
+Hypophosphatemic Rickets, X-Linked Dominant	MELAS Syndrome
+Arthritis, Psoriatic	Hyperalgesia
+Infertility	MELAS Syndrome
+Intestinal Polyps	MELAS Syndrome
+Myopathies, Nemaline	Rhinitis, Allergic, Perennial
+Anemia, Diamond-Blackfan	Ciliary Motility Disorders
+Ciliary Motility Disorders	Collagen Diseases
+Mouth Neoplasms	Mucocutaneous Lymph Node Syndrome
+Neurotoxicity Syndromes	Neutropenia
+Hypertrichosis	Respiratory Hypersensitivity
+Anus, Imperforate	Myopathies, Nemaline
+Anophthalmos	Mitochondrial Encephalomyopathies
+Megacolon	Myopathies, Nemaline
+Hypoglycemia	Androgen-Insensitivity Syndrome
+Hypotrichosis	MELAS Syndrome
+Carcinoma, Papillary	Myotonic Dystrophy
+Romano-Ward Syndrome	Septo-Optic Dysplasia
+Huntington Disease	Myotonic Dystrophy
+Arthritis	Hepatic Encephalopathy
+Septo-Optic Dysplasia	Unverricht-Lundborg Syndrome
+MELAS Syndrome	Rickets
+MELAS Syndrome	Neutropenia
+Polyuria	Septo-Optic Dysplasia
+Ciliary Motility Disorders	Endotoxemia
+Ciliary Motility Disorders	Hypertrichosis
+Hyperparathyroidism	MELAS Syndrome
+Albinism, Oculocutaneous	Myopathies, Nemaline
+Arthritis	Hypertension, Portal
+Nerve Degeneration	Neoplasm Metastasis
+Growth Disorders	Liver Failure
+Osteoporosis, Postmenopausal	Hemangioma
+Cytochrome-c Oxidase Deficiency	Oral Ulcer
+Uterine Neoplasms	Exanthema
+Ciliary Motility Disorders	Prostatic Hyperplasia
+Endometrial Hyperplasia	Telangiectasis
+Osteochondrodysplasias	Thrombocytosis
+Alopecia Areata	Mitochondrial Encephalomyopathies
+Candidiasis, Chronic Mucocutaneous	Homocystinuria
+Huntington Disease	Growth Disorders
+Gout	MELAS Syndrome
+Bronchiolitis Obliterans	Cytochrome-c Oxidase Deficiency
+Chorea	Wolff-Parkinson-White Syndrome
+Pain	Aortic Aneurysm, Abdominal
+Hyperthyroidism	Macrocephaly
+Pregnancy Complications	Osteitis Deformans
+Bone Marrow Diseases	Ciliary Motility Disorders
+Albinism, Oculocutaneous	Gitelman Syndrome
+Polycystic Kidney, Autosomal Dominant	Hemorrhage
+Ciliary Motility Disorders	Respiratory Distress Syndrome, Newborn
+Cytochrome-c Oxidase Deficiency	Wolff-Parkinson-White Syndrome
+Acanthosis Nigricans	Xeroderma Pigmentosum
+Brain Ischemia	Thyroid Diseases
+Anemia, Macrocytic	Blindness, Cortical
+Hermanski-Pudlak Syndrome	Nail Diseases
+Alopecia Areata	Ciliary Motility Disorders
+MELAS Syndrome	Myopathies, Nemaline
+MELAS Syndrome	Rhinitis
+Chromosome Breakage	Purpura, Thrombotic Thrombocytopenic
+Ciliary Motility Disorders	Vitelliform Macular Dystrophy
+Ileitis	MELAS Syndrome
+Lymphatic Diseases	MELAS Syndrome
+Amelogenesis Imperfecta	Blindness, Cortical
+Intervertebral Disk Displacement	Osteosclerosis
+Infertility	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Hyperbilirubinemia
+Ciliary Motility Disorders	Myasthenic Syndromes, Congenital
+Pituitary Neoplasms	Achondroplasia
+Autoimmune Diseases	Purpura, Thrombotic Thrombocytopenic
+Ciliary Motility Disorders	Peripheral Vascular Diseases
+Ehlers-Danlos Syndrome	Moyamoya Disease
+Leishmaniasis, Cutaneous	MELAS Syndrome
+Mitochondrial Encephalomyopathies	Vitamin A Deficiency
+Hepatitis C, Chronic	Cardiomyopathy, Dilated
+Esophageal Atresia	Wolff-Parkinson-White Syndrome
+Cytochrome-c Oxidase Deficiency	Microvascular Angina
+Amyloidosis	Coronary Restenosis
+Uveitis	Prostatic Diseases
+Stevens-Johnson Syndrome	Keratosis
+Ciliary Motility Disorders	Mitochondrial Myopathies
+MELAS Syndrome	Subacute Sclerosing Panencephalitis
+Intestinal Polyposis	MELAS Syndrome
+Ciliary Motility Disorders	Familial Mediterranean Fever
+MELAS Syndrome	Sleep Apnea, Central
+HIV Infections	Aneurysm
+Prader-Willi Syndrome	Retinal Degeneration
+Gingival Hyperplasia	Multiple Endocrine Neoplasia Type 1
+Ciliary Motility Disorders	Hemophilia B
+Uremia	Alopecia
+Ciliary Motility Disorders	Pulmonary Alveolar Proteinosis
+Vitiligo	Splenomegaly
+Candidiasis, Chronic Mucocutaneous	Unverricht-Lundborg Syndrome
+Leber Congenital Amaurosis	Mitochondrial Encephalomyopathies
+Ciliary Motility Disorders	Hemochromatosis
+Arthritis, Experimental	Fibrosis
+Angioedemas, Hereditary	Myopathies, Nemaline
+Chromosome Breakage	Ovarian Hyperstimulation Syndrome
+Ciliary Motility Disorders	Oral Submucous Fibrosis
+Nasopharyngeal Neoplasms	Lung Diseases, Interstitial
+Hypercalcemia	MELAS Syndrome
+Hypoxia-Ischemia, Brain	Thrombosis
+Myxoma	Hepatic Encephalopathy
+Amelogenesis Imperfecta	Mitochondrial Encephalomyopathies
+Leigh Disease	X-Linked Combined Immunodeficiency Diseases
+Myopathies, Nemaline	X-Linked Combined Immunodeficiency Diseases
+MELAS Syndrome	Optic Neuritis
+Alopecia Areata	Ophthalmoplegia
+Inflammation	Listeriosis
+Osteosarcoma	Diabetes Mellitus
+Skin Ulcer	Noonan Syndrome
+Spondylarthropathies	Pancytopenia
+Lung Injury	MELAS Syndrome
+Hyperandrogenism	Myopathies, Nemaline
+Hypersensitivity	Anemia, Macrocytic
+Lung Neoplasms	Ventricular Fibrillation
+Growth Disorders	Nerve Degeneration
+Acromegaly	MELAS Syndrome
+Lupus Nephritis	MELAS Syndrome
+alpha-Thalassemia	MELAS Syndrome
+Heart Septal Defects	MELAS Syndrome
+Tongue Neoplasms	Mammary Neoplasms, Experimental
+Hyperammonemia	Septo-Optic Dysplasia
+Leigh Disease	Wolff-Parkinson-White Syndrome
+Retinal Degeneration	Hypospadias
+Microcephaly	Hernia, Inguinal
+Mitochondrial Diseases	Moyamoya Disease
+Exanthema	Hashimoto Disease
+Hyperammonemia	Williams Syndrome
+Osteoporosis	Hypoplastic Left Heart Syndrome
+Blindness, Cortical	Gonadal Dysgenesis
+Acidosis, Lactic	Nail Diseases
+Albinism, Oculocutaneous	Meningococcal Infections
+Dystonia	Multiple System Atrophy
+Irritable Bowel Syndrome	MELAS Syndrome
+Amelogenesis Imperfecta	Neuronal Ceroid-Lipofuscinoses
+Albinism, Oculocutaneous	Romano-Ward Syndrome
+Fatty Liver	Conjunctivitis
+Heart Septal Defects	Ovarian Hyperstimulation Syndrome
+Carcinoma, Small Cell	Osteopetrosis
+Ciliary Motility Disorders	Intervertebral Disk Displacement
+Hypotension	Amenorrhea
+Ciliary Motility Disorders	Hepatic Veno-Occlusive Disease
+Uterine Neoplasms	Gaucher Disease
+Blindness, Cortical	Epidermolysis Bullosa
+Dermatitis, Atopic	MELAS Syndrome
+Hirschsprung Disease	MELAS Syndrome
+Hypoparathyroidism	Noonan Syndrome
+Rectal Neoplasms	Thrombophilia
+Ciliary Motility Disorders	Cutis Laxa
+Collagen Diseases	Leigh Disease
+Ciliary Motility Disorders	Mitochondrial Encephalomyopathies
+Heroin Dependence	Anus, Imperforate
+Ciliary Motility Disorders	Thalassemia
+Cytochrome-c Oxidase Deficiency	Vitamin A Deficiency
+Chromosome Breakage	Polyuria
+Amelogenesis Imperfecta	MELAS Syndrome
+MELAS Syndrome	Situs Inversus
+Ciliary Motility Disorders	Drug Eruptions
+Heart Septal Defects	Wolff-Parkinson-White Syndrome
+Bloom Syndrome	Salivary Gland Neoplasms
+Agammaglobulinemia	Ciliary Motility Disorders
+Ciliary Motility Disorders	Esophagitis
+Substance-Related Disorders	Androgen-Insensitivity Syndrome
+Catalepsy	MELAS Syndrome
+Ciliary Motility Disorders	Duodenal Ulcer
+Prostatic Neoplasms	Gastrointestinal Stromal Tumors
+Medulloblastoma	Pseudoxanthoma Elasticum
+Amenorrhea	Heroin Dependence
+Cardiomyopathy, Hypertrophic, Familial	Septo-Optic Dysplasia
+Hemochromatosis	Intracranial Hemorrhages
+Hyperlipoproteinemia Type I	MELAS Syndrome
+Hypercalcemia	Infarction, Middle Cerebral Artery
+Lymphatic Diseases	Myopathies, Nemaline
+Myositis	Migraine with Aura
+Gitelman Syndrome	Septo-Optic Dysplasia
+Collagen Diseases	Ophthalmoplegia
+Anophthalmos	Chediak-Higashi Syndrome
+Kidney Diseases	Skin Ulcer
+Agammaglobulinemia	Mitochondrial Encephalomyopathies
+Deglutition Disorders	Adenomatous Polyposis Coli
+Hyperglycemia	Testicular Neoplasms
+Psychoses, Substance-Induced	DiGeorge Syndrome
+Skin Abnormalities	Hemangioma
+Amelogenesis Imperfecta	Congenital Hypothyroidism
+Blindness, Cortical	Opioid-Related Disorders
+Ciliary Motility Disorders	Muscular Dystrophy, Facioscapulohumeral
+Congenital Disorders of Glycosylation	Hypergammaglobulinemia
+Angioedemas, Hereditary	Blepharophimosis
+MELAS Syndrome	Mycobacterium Infections
+Ciliary Motility Disorders	Necrosis
+Amyloidosis	Lymphohistiocytosis, Hemophagocytic
+Skin Abnormalities	Pancytopenia
+Bradycardia	MELAS Syndrome
+Cytochrome-c Oxidase Deficiency	Respiratory Hypersensitivity
+MELAS Syndrome	Syncope
+Neoplasms, Experimental	Cardiomyopathy, Dilated
+Mitochondrial Encephalomyopathies	Nail Diseases
+Myopathies, Nemaline	Sialorrhea
+Chromosome Breakage	Respiratory Hypersensitivity
+Cytochrome-c Oxidase Deficiency	Hyperlipoproteinemias
+Congenital Disorders of Glycosylation	Nail Diseases
+Acidosis, Lactic	X-Linked Combined Immunodeficiency Diseases
+Hemolytic-Uremic Syndrome	Mitochondrial Encephalomyopathies
+MELAS Syndrome	Neural Tube Defects
+Neuronal Ceroid-Lipofuscinoses	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Hypersensitivity
+Disorders of Sex Development	MELAS Syndrome
+Malaria, Falciparum	MELAS Syndrome
+Hemorrhagic Disorders	Immunologic Deficiency Syndromes
+Cytochrome-c Oxidase Deficiency	Esophagitis
+Amino Acid Metabolism, Inborn Errors	Epilepsy, Rolandic
+MELAS Syndrome	Photophobia
+Hyper-IgM Immunodeficiency Syndrome, Type 1	MELAS Syndrome
+Soft Tissue Neoplasms	Multiple Endocrine Neoplasia
+Epilepsy, Temporal Lobe	Thalassemia
+MELAS Syndrome	Peutz-Jeghers Syndrome
+Kallmann Syndrome	Leigh Disease
+Respiratory Tract Infections	Psoriasis
+Spinal Diseases	Osteogenesis Imperfecta
+Amelogenesis Imperfecta	Open Bite
+Acidosis, Lactic	Ovarian Hyperstimulation Syndrome
+Choroidal Neovascularization	Chromosome Breakage
+Burkitt Lymphoma	Porphyria Cutanea Tarda
+Anemia	Arthrogryposis
+Vasculitis	Paraganglioma
+Blindness, Cortical	Infertility
+Hyper-IgM Immunodeficiency Syndrome, Type 1	Myopathies, Nemaline
+MELAS Syndrome	Ventricular Fibrillation
+Candidiasis, Chronic Mucocutaneous	Wolff-Parkinson-White Syndrome
+Blepharophimosis	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Spondylarthropathies
+HIV Infections	Angelman Syndrome
+Neoplasm Recurrence, Local	Neoplasms, Radiation-Induced
+Down Syndrome	Rhabdomyosarcoma
+Angioedemas, Hereditary	Chromosome Breakage
+Ciliary Motility Disorders	Multiple Sclerosis, Relapsing-Remitting
+Carpal Tunnel Syndrome	Leigh Disease
+Acidosis, Lactic	Ciliary Motility Disorders
+Albinism, Oculocutaneous	Muscular Dystrophies, Limb-Girdle
+Ciliary Motility Disorders	Diabetes Insipidus
+Staphylococcal Infections	Tobacco Use Disorder
+Hypogonadism	MELAS Syndrome
+Glycogen Storage Disease	Septo-Optic Dysplasia
+Epilepsy, Generalized	Cardiomyopathy, Hypertrophic, Familial
+Acquired Immunodeficiency Syndrome	Pituitary Neoplasms
+MELAS Syndrome	Protein C Deficiency
+Blindness, Cortical	Respiratory Hypersensitivity
+Mitochondrial Encephalomyopathies	Septo-Optic Dysplasia
+Mitochondrial Encephalomyopathies	Skin Diseases, Genetic
+Osteochondrodysplasias	Hyperprolactinemia
+Ciliary Motility Disorders	Leprosy
+Ciliary Motility Disorders	Tracheoesophageal Fistula
+Inflammation	Amyloidosis
+Skin Neoplasms	Rhinitis
+Gout	Moyamoya Disease
+Ischemia	Inflammatory Bowel Diseases
+Autoimmune Diseases	Hyperpigmentation
+Neutropenia	Immunologic Deficiency Syndromes
+Blindness, Cortical	Ciliary Motility Disorders
+Albinism, Oculocutaneous	Macrocephaly
+Liver Cirrhosis	Osteopetrosis
+Ciliary Motility Disorders	Pelizaeus-Merzbacher Disease
+Epidermolysis Bullosa	Opioid-Related Disorders
+Cytochrome-c Oxidase Deficiency	Hemophilia B
+Amyloidosis	Muscular Dystrophy, Facioscapulohumeral
+Blindness, Cortical	Ileitis
+Microvascular Angina	Myopathies, Nemaline
+Myocardial Ischemia	Tobacco Use Disorder
+Ciliary Motility Disorders	Dermatitis
+Alopecia Areata	Myopathies, Nemaline
+Granuloma	Leigh Disease
+Blindness, Cortical	Spinal Diseases
+Cytochrome-c Oxidase Deficiency	Leishmaniasis
+Pelizaeus-Merzbacher Disease	Wolff-Parkinson-White Syndrome
+Intestinal Diseases	Graves Disease
+Leukoplakia, Oral	MELAS Syndrome
+Ciliary Motility Disorders	Nephrosis
+Neurotoxicity Syndromes	Hepatic Veno-Occlusive Disease
+Sarcoidosis	Kidney Calculi
+Ciliary Motility Disorders	Iron Overload
+Respiratory Insufficiency	Calcinosis
+Ciliary Motility Disorders	Lymphatic Diseases
+Hyperopia	Wolff-Parkinson-White Syndrome
+Blepharophimosis	MELAS Syndrome
+Glycogen Storage Disease	MELAS Syndrome
+Granuloma	MELAS Syndrome
+Myopathies, Nemaline	Protein C Deficiency
+Glycogen Storage Disease	Hypospadias
+Multiple Sclerosis	Salivary Gland Neoplasms
+Cerebral Infarction	Aneurysm
+Sepsis	Muscular Atrophy
+Hemochromatosis	Disorders of Sex Development
+Chediak-Higashi Syndrome	Muscular Dystrophy, Emery-Dreifuss
+Ciliary Motility Disorders	Osteopetrosis
+Stevens-Johnson Syndrome	Lymphopenia
+Multiple Organ Failure	Vitelliform Macular Dystrophy
+Pneumonia	Anxiety Disorders
+Bone Diseases, Developmental	MELAS Syndrome
+Limb Deformities, Congenital	MELAS Syndrome
+Choroidal Neovascularization	Leigh Disease
+Amelogenesis Imperfecta	Anemia, Megaloblastic
+Hyperglycemia	Malformations of Cortical Development
+Brain Neoplasms	Restless Legs Syndrome
+Ciliary Motility Disorders	X-Linked Combined Immunodeficiency Diseases
+Graves Disease	MELAS Syndrome
+MELAS Syndrome	Xeroderma Pigmentosum
+MELAS Syndrome	Polydactyly
+Lymphoproliferative Disorders	Dermatitis, Atopic
+Cytochrome-c Oxidase Deficiency	Meningococcal Infections
+Lymphoma, Follicular	MELAS Syndrome
+Adenoma	Situs Inversus
+Neoplastic Syndromes, Hereditary	Schistosomiasis mansoni
+Osteitis Deformans	Lymphedema
+Multiple Myeloma	Hamartoma
+Carotid Stenosis	Eye Abnormalities
+Epilepsy	Anemia
+Candidiasis, Chronic Mucocutaneous	Ciliary Motility Disorders
+Substance Withdrawal Syndrome	Cryptorchidism
+MELAS Syndrome	Oligospermia
+Osteosarcoma	Blood Coagulation Disorders
+Kallmann Syndrome	MELAS Syndrome
+Ciliary Motility Disorders	Myoclonic Epilepsies, Progressive
+Acidosis, Lactic	Wolff-Parkinson-White Syndrome
+Sleep Disorders	Ehlers-Danlos Syndrome
+Ciliary Motility Disorders	Optic Neuritis
+Ciliary Motility Disorders	Stomach Diseases
+Long QT Syndrome	MELAS Syndrome
+MELAS Syndrome	Pelizaeus-Merzbacher Disease
+Anemia, Megaloblastic	Hypergammaglobulinemia
+Hyperpigmentation	Hemangiosarcoma
+Intestinal Diseases	Calcinosis
+Albinism, Oculocutaneous	Amelogenesis Imperfecta
+Hyperopia	MELAS Syndrome
+Amelogenesis Imperfecta	Friedreich Ataxia
+Acidosis, Lactic	Kallmann Syndrome
+Gitelman Syndrome	Hypospadias
+Gastrointestinal Diseases	MELAS Syndrome
+Microcephaly	Schizophrenia
+Muscular Dystrophy, Duchenne	Heart Septal Defects
+Choroidal Neovascularization	Ciliary Motility Disorders
+Adenocarcinoma	Mitochondrial Encephalomyopathies
+MELAS Syndrome	Rectal Fistula
+Amelogenesis Imperfecta	Opioid-Related Disorders
+Pre-Eclampsia	Lymphohistiocytosis, Hemophagocytic
+Cytochrome-c Oxidase Deficiency	Nail Diseases
+Oculocerebrorenal Syndrome	Pelizaeus-Merzbacher Disease
+Endotoxemia	Aortic Aneurysm, Abdominal
+Mitochondrial Diseases	Septo-Optic Dysplasia
+Ciliary Motility Disorders	Hirschsprung Disease
+Collagen Diseases	Cytochrome-c Oxidase Deficiency
+Liver Cirrhosis	Osteochondrodysplasias
+Amelogenesis Imperfecta	Cafe-au-Lait Spots
+Ischemia	Cocaine-Related Disorders
+MELAS Syndrome	Urologic Neoplasms
+Alopecia Areata	Unverricht-Lundborg Syndrome
+Blindness, Cortical	Ovarian Hyperstimulation Syndrome
+Schistosomiasis mansoni	Hypospadias
+MELAS Syndrome	Respiratory Hypersensitivity
+Common Variable Immunodeficiency	MELAS Syndrome
+Ciliary Motility Disorders	Intracranial Aneurysm
+Anemia, Megaloblastic	MELAS Syndrome
+Muscle Spasticity	Calcinosis
+Astrocytoma	Keratosis
+Acquired Immunodeficiency Syndrome	Ciliary Motility Disorders
+Ciliary Motility Disorders	Hyperemia
+Brucellosis	Hypertension, Portal
+Brucellosis	MELAS Syndrome
+Gastrointestinal Neoplasms	Neurotoxicity Syndromes
+Liver Neoplasms, Experimental	Tongue Neoplasms
+Thyroid Hormone Resistance Syndrome	Wolff-Parkinson-White Syndrome
+Epilepsy, Generalized	Multiple Organ Failure
+Myopathies, Nemaline	Spinal Cord Diseases
+Meningococcal Infections	Nail Diseases
+Dental Enamel Hypoplasia	MELAS Syndrome
+Demyelinating Diseases	Dysarthria
+Muscular Dystrophy, Duchenne	Renal Insufficiency
+Cytochrome-c Oxidase Deficiency	Multiple Organ Failure
+Epidermolysis Bullosa	Oculocerebrorenal Syndrome
+Albinism, Oculocutaneous	X-Linked Combined Immunodeficiency Diseases
+Albinism, Oculocutaneous	Rubinstein-Taybi Syndrome
+MELAS Syndrome	Obesity, Abdominal
+Ciliary Motility Disorders	Hyperlipidemia, Familial Combined
+Growth Disorders	MELAS Syndrome
+Ciliary Motility Disorders	Temporomandibular Joint Disorders
+Pain	Dermatitis
+Fibromatosis, Aggressive	MELAS Syndrome
+Dermatomyositis	Cardiomyopathy, Hypertrophic, Familial
+Agammaglobulinemia	Unverricht-Lundborg Syndrome
+Ciliary Motility Disorders	Mastitis
+Anus, Imperforate	MELAS Syndrome
+Amino Acid Metabolism, Inborn Errors	Respiratory Hypersensitivity
+Dandy-Walker Syndrome	Opioid-Related Disorders
+Chediak-Higashi Syndrome	Choroideremia
+Pregnancy Complications	Liver Neoplasms, Experimental
+Cholelithiasis	MELAS Syndrome
+Rhabdomyolysis	Dental Enamel Hypoplasia
+Leishmaniasis, Cutaneous	Calcinosis
+Opioid-Related Disorders	Sialorrhea
+Osteopetrosis	Seizures
+Sinusitis	Polycystic Kidney Diseases
+Bone Diseases, Developmental	Autoimmune Diseases
+Blindness, Cortical	Megacolon
+Hypospadias	Endometrial Hyperplasia
+Opioid-Related Disorders	Wolff-Parkinson-White Syndrome
+MELAS Syndrome	Uterine Neoplasms
+Tachycardia, Ventricular	Acute Coronary Syndrome
+Amelogenesis Imperfecta	Anophthalmos
+Craniofacial Abnormalities	MELAS Syndrome
+Autoimmune Lymphoproliferative Syndrome	Ciliary Motility Disorders
+Common Variable Immunodeficiency	Failure to Thrive
+Enterocolitis	Mitochondrial Encephalomyopathies
+Ciliary Motility Disorders	Ovarian Hyperstimulation Syndrome
+Progeria	Spastic Paraplegia, Hereditary
+Asthma	Bardet-Biedl Syndrome
+MELAS Syndrome	Pseudohypoparathyroidism
+Epidermolysis Bullosa	Leigh Disease
+Ciliary Motility Disorders	Hypergammaglobulinemia
+Acidosis, Lactic	Amelogenesis Imperfecta
+MELAS Syndrome	Retinal Dystrophies
+Hypoxia-Ischemia, Brain	Telangiectasis
+Pituitary Neoplasms	Kidney Failure, Chronic
+Cushing Syndrome	MELAS Syndrome
+Ophthalmoplegia	Respiratory Hypersensitivity
+Crohn Disease	Leishmaniasis, Cutaneous
+Blindness, Cortical	Intervertebral Disk Displacement
+MELAS Syndrome	Spastic Paraplegia, Hereditary
+Blindness, Cortical	Multiple Organ Failure
+Venous Thromboembolism	Sarcoma
+Antisocial Personality Disorder	Ciliary Motility Disorders
+Carotid Artery Diseases	Ciliary Motility Disorders
+Pancreatitis, Chronic	Autoimmune Diseases
+Candidiasis, Chronic Mucocutaneous	Glycogen Storage Disease
+Dandy-Walker Syndrome	MELAS Syndrome
+Epilepsy, Generalized	Burkitt Lymphoma
+Neuroblastoma	Rett Syndrome
+Microphthalmos	Neoplasms, Radiation-Induced
+Graves Disease	Bacterial Infections
+MELAS Syndrome	Peritonitis
+Congenital Hypothyroidism	MELAS Syndrome
+Adenocarcinoma	Neoplasm, Residual
+Cytochrome-c Oxidase Deficiency	Septo-Optic Dysplasia
+Ciliary Motility Disorders	Leishmaniasis, Cutaneous
+Carpal Tunnel Syndrome	Wolff-Parkinson-White Syndrome
+Anophthalmos	Leigh Disease
+Hyperbilirubinemia	MELAS Syndrome
+MELAS Syndrome	Spinal Cord Diseases
+Adenoma	Dandy-Walker Syndrome
+Amino Acid Metabolism, Inborn Errors	Heart Septal Defects
+Lysosomal Storage Diseases	MELAS Syndrome
+Tobacco Use Disorder	Macrocephaly
+Disorders of Sex Development	Myopathies, Nemaline
+Cerebellar Ataxia	Hypothyroidism
+Leukopenia	MELAS Syndrome
+Collagen Diseases	Optic Atrophy, Hereditary, Leber
+Neoplasms, Second Primary	Cardiomyopathy, Dilated
+Celiac Disease	Situs Inversus
+Leigh Disease	Microvascular Angina
+Candidiasis, Chronic Mucocutaneous	Cardiomyopathy, Hypertrophic, Familial
+Klinefelter Syndrome	Pancytopenia
+Mitochondrial Encephalomyopathies	Myoclonic Epilepsy, Juvenile
+Tachycardia	Lymphangioleiomyomatosis
+Ciliary Motility Disorders	Pyruvate Carboxylase Deficiency Disease
+Amelogenesis Imperfecta	Mitochondrial Myopathies
+Severe Combined Immunodeficiency	Heroin Dependence
+Mouth Neoplasms	Rhabdomyolysis
+Hodgkin Disease	MELAS Syndrome
+Gitelman Syndrome	MELAS Syndrome
+Leukoencephalopathy, Progressive Multifocal	Hemangiosarcoma
+Bardet-Biedl Syndrome	Congenital Disorders of Glycosylation
+Demyelinating Diseases	Respiration Disorders
+Burkitt Lymphoma	Carotid Stenosis
+Growth Disorders	Tongue Neoplasms
+Epilepsy, Rolandic	MELAS Syndrome
+MELAS Syndrome	Nephrocalcinosis
+Bradycardia	Wolff-Parkinson-White Syndrome
+Fetal Diseases	Cleft Lip
+Mental Retardation	Hepatolenticular Degeneration
+Acquired Immunodeficiency Syndrome	Neuroectodermal Tumors
+Nasopharyngeal Neoplasms	Pulmonary Emphysema
+Hypospadias	MELAS Syndrome
+Hypertriglyceridemia	Congenital Hypothyroidism
+MELAS Syndrome	Purpura, Thrombotic Thrombocytopenic
+Chediak-Higashi Syndrome	Chromosome Breakage
+Mitochondrial Encephalomyopathies	Respiratory Hypersensitivity
+MELAS Syndrome	Personality Disorders
+Congenital Disorders of Glycosylation	Lymphohistiocytosis, Hemophagocytic
+Candidiasis, Chronic Mucocutaneous	Pseudoxanthoma Elasticum
+Ectodermal Dysplasia	MELAS Syndrome
+Ciliary Motility Disorders	Leigh Disease
+Intestinal Diseases	MELAS Syndrome
+Night Blindness	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	Myopathies, Nemaline
+Disseminated Intravascular Coagulation	Myopathies, Nemaline
+Amelogenesis Imperfecta	Megacolon
+Hypotrichosis	Leigh Disease
+Burkitt Lymphoma	Rickets
+Candidiasis, Chronic Mucocutaneous	Zellweger Syndrome
+Hyponatremia	MELAS Syndrome
+Dementia	Reperfusion Injury
+Congenital Disorders of Glycosylation	Opioid-Related Disorders
+Bardet-Biedl Syndrome	MELAS Syndrome
+Intestinal Neoplasms	Thrombocytosis
+Ciliary Motility Disorders	Dementia, Vascular
+Carotid Stenosis	Cardiomyopathy, Hypertrophic, Familial
+Ciliary Motility Disorders	Epilepsies, Myoclonic
+Celiac Disease	Polycystic Kidney Diseases
+Lissencephaly	MELAS Syndrome
+Glycogen Storage Disease	Ileitis
+Gitelman Syndrome	Mitochondrial Encephalomyopathies
+Dyskeratosis Congenita	Vitamin A Deficiency
+Unverricht-Lundborg Syndrome	Wolff-Parkinson-White Syndrome
+Nevus	Motor Neuron Disease
+Microvascular Angina	Mitochondrial Encephalomyopathies
+Hypoplastic Left Heart Syndrome	MELAS Syndrome
+Leigh Disease	Respiratory Hypersensitivity
+Myopathies, Nemaline	Respiratory Hypersensitivity
+HIV Infections	Hepatolenticular Degeneration
+Candidiasis, Chronic Mucocutaneous	MELAS Syndrome
+Ciliary Motility Disorders	Exfoliation Syndrome
+Bardet-Biedl Syndrome	Blindness, Cortical
+Ciliary Motility Disorders	Myasthenia Gravis
+Epilepsy, Rolandic	Mitochondrial Encephalomyopathies
+Spastic Paraplegia, Hereditary	Heroin Dependence
+MELAS Syndrome	Obesity, Morbid
+Arteriosclerosis	Anemia, Macrocytic
+Septo-Optic Dysplasia	Zellweger Syndrome
+Androgen-Insensitivity Syndrome	Bulimia Nervosa
+Anophthalmos	Wolff-Parkinson-White Syndrome
+Lymphangioleiomyomatosis	MELAS Syndrome
+Blindness, Cortical	Hyperlipoproteinemias
+Thromboembolism	Lymphohistiocytosis, Hemophagocytic
+Glioblastoma	Myasthenic Syndromes, Congenital
+Hepatic Veno-Occlusive Disease	Myopathies, Nemaline
+Dementia	Epilepsies, Myoclonic
+Adenoma	Kidney Calculi
+Candidiasis, Chronic Mucocutaneous	Cutis Laxa
+Retinal Dystrophies	Wolff-Parkinson-White Syndrome
+Carcinoma, Small Cell	Cholestasis
+Albinism, Oculocutaneous	Hyperlipoproteinemia Type I
+Obsessive-Compulsive Disorder	Opioid-Related Disorders
+Hypohidrosis	MELAS Syndrome
+Lymphedema	DiGeorge Syndrome
+Angioedemas, Hereditary	Ciliary Motility Disorders
+Amino Acid Metabolism, Inborn Errors	Wolff-Parkinson-White Syndrome
+Lung Diseases, Obstructive	Arteriosclerosis
+Ciliary Motility Disorders	Pneumococcal Infections
+MELAS Syndrome	Neoplasms, Radiation-Induced
+Ciliary Motility Disorders	Meningococcal Infections
+Acidosis, Lactic	Septo-Optic Dysplasia
+MELAS Syndrome	Tetralogy of Fallot
+Hemangiosarcoma	Prader-Willi Syndrome
+Adrenoleukodystrophy	Anus, Imperforate
+Mitochondrial Encephalomyopathies	Thyroid Hormone Resistance Syndrome
+Hodgkin Disease	Hypergammaglobulinemia
+Cytochrome-c Oxidase Deficiency	Thromboembolism
+Ciliary Motility Disorders	Purpura, Thrombotic Thrombocytopenic
+Mouth Neoplasms	Agranulocytosis
+Anemia	Nephrotic Syndrome
+Osteosarcoma	Peritonitis
+Albinism, Oculocutaneous	Polyuria
+Contracture	Hypohidrosis
+Leprosy	Papilloma
+Neurotoxicity Syndromes	Autistic Disorder
+Ciliary Motility Disorders	Spinal Diseases
+Ciliary Motility Disorders	Rhinitis, Allergic, Perennial
+Bronchiolitis Obliterans	Ciliary Motility Disorders
+Amyotrophic Lateral Sclerosis	Aortic Aneurysm
+MELAS Syndrome	Thyroid Diseases
+MELAS Syndrome	Tooth Abnormalities
+Congenital Disorders of Glycosylation	Pelizaeus-Merzbacher Disease
+Opioid-Related Disorders	Rhabdoid Tumor
+Cerebellar Diseases	Glycogen Storage Disease
+Atrial Fibrillation	Mood Disorders
+Hyperlipoproteinemias	Myopathies, Nemaline
+Anemia, Megaloblastic	Multiple Organ Failure
+Leber Congenital Amaurosis	MELAS Syndrome
+Leishmaniasis, Visceral	Myopathies, Nemaline
+Vasculitis	Astrocytoma
+Fabry Disease	MELAS Syndrome
+Anemia, Megaloblastic	Respiratory Hypersensitivity
+Leigh Disease	Meningococcal Infections
+Agammaglobulinemia	Congenital Disorders of Glycosylation
+Mitochondrial Myopathies	Septo-Optic Dysplasia
+Exfoliation Syndrome	Leigh Disease
+Limb Deformities, Congenital	Mitochondrial Encephalomyopathies
+Hepatitis B	Demyelinating Diseases
+Polyuria	Wolff-Parkinson-White Syndrome
+Colitis	Hemorrhage
+Skin Abnormalities	Hernia, Inguinal
+Aneurysm, Dissecting	Ciliary Motility Disorders
+alpha 1-Antitrypsin Deficiency	Ciliary Motility Disorders
+Neuromuscular Diseases	Migraine Disorders
+Hypotrichosis	Wolff-Parkinson-White Syndrome
+Atrial Fibrillation	Fibromatosis, Aggressive
+Albinism, Oculocutaneous	Optic Neuritis
+Ileitis	Mitochondrial Encephalomyopathies
+Tachycardia	Noonan Syndrome
+Lupus Erythematosus, Systemic	Hypoplastic Left Heart Syndrome
+Anemia, Sickle Cell	Failure to Thrive
+Myopathies, Nemaline	Opioid-Related Disorders
+Opioid-Related Disorders	Vitelliform Macular Dystrophy
+Leigh Disease	Opioid-Related Disorders
+Amino Acid Metabolism, Inborn Errors	MELAS Syndrome
+Lymphohistiocytosis, Hemophagocytic	Wolff-Parkinson-White Syndrome
+Fanconi Anemia	Hypergammaglobulinemia
+Cytochrome-c Oxidase Deficiency	Ileitis
+Corneal Diseases	Chromosome Breakage
+Cytochrome-c Oxidase Deficiency	Hemolytic-Uremic Syndrome
+Mitochondrial Encephalomyopathies	X-Linked Combined Immunodeficiency Diseases
+Alopecia	DiGeorge Syndrome
+Tuberous Sclerosis	Primary Myelofibrosis
+Septo-Optic Dysplasia	Sialorrhea
+Pulmonary Embolism	Thalassemia
+Ciliary Motility Disorders	Pancreatitis, Chronic
+Lysosomal Storage Diseases	Septo-Optic Dysplasia
+Myasthenia Gravis	Lung Diseases, Interstitial
+Blindness, Cortical	Leishmaniasis
+Septo-Optic Dysplasia	Wolff-Parkinson-White Syndrome
+Pulmonary Emphysema	Leigh Disease
+Cerebral Amyloid Angiopathy	Ciliary Motility Disorders
+Cushing Syndrome	Aortic Aneurysm, Abdominal
+Stomach Diseases	Amyloidosis
+Glycogen Storage Disease	Hypotrichosis
+Vascular Diseases	Papilloma
+Opioid-Related Disorders	Optic Atrophy
+Respiratory Hypersensitivity	Vitelliform Macular Dystrophy
+Angioedemas, Hereditary	Blindness, Cortical
+Hemophilia B	MELAS Syndrome
+Contracture	Hepatomegaly
+Microcephaly	Neurotoxicity Syndromes
+Open Bite	Wolff-Parkinson-White Syndrome
+Cardiomyopathy, Dilated	Folic Acid Deficiency
+Lipodystrophy	Rickets
+Hermanski-Pudlak Syndrome	Leishmaniasis
+Folic Acid Deficiency	MELAS Syndrome
+Dyskeratosis Congenita	Epilepsy, Rolandic
+MELAS Syndrome	Refractive Errors
+Ciliary Motility Disorders	Sjogren's Syndrome
+Vitelliform Macular Dystrophy	Wolff-Parkinson-White Syndrome
+Bardet-Biedl Syndrome	Unverricht-Lundborg Syndrome
+Exanthema	Fabry Disease
+Ciliary Motility Disorders	Microvascular Angina
+Heart Diseases	Testicular Neoplasms
+Uterine Neoplasms	Hyponatremia
+Hermanski-Pudlak Syndrome	Myoclonic Epilepsy, Juvenile
+Disseminated Intravascular Coagulation	MELAS Syndrome
+Thromboembolism	Retinitis Pigmentosa
+Amelogenesis Imperfecta	Glycogen Storage Disease
+Pulmonary Fibrosis	Diabetic Cardiomyopathies
+Ciliary Motility Disorders	Respiratory Distress Syndrome, Adult
+MELAS Syndrome	Testicular Neoplasms
+Infertility	Myopathies, Nemaline
+Hepatic Veno-Occlusive Disease	MELAS Syndrome
+Carcinoma, Transitional Cell	Glycogen Storage Disease
+Esophageal Atresia	MELAS Syndrome
+Esophagitis	Leigh Disease
+Esophagitis	Myopathies, Nemaline
+Ciliary Motility Disorders	Kidney Calculi
+Chromosome Breakage	MELAS Syndrome
+Ciliary Motility Disorders	Pleural Diseases
+Leishmaniasis	MELAS Syndrome
+Acidosis, Lactic	Choroidal Neovascularization
+Hypertension, Portal	MELAS Syndrome
+Mitochondrial Myopathies	Wolff-Parkinson-White Syndrome
+Ciliary Motility Disorders	HELLP Syndrome
+MELAS Syndrome	Myoclonic Epilepsy, Juvenile
+Amelogenesis Imperfecta	Chediak-Higashi Syndrome
+Phenylketonurias	Precancerous Conditions
+Amelogenesis Imperfecta	Leigh Disease
+Myxoma	Respiratory Distress Syndrome, Adult
+MELAS Syndrome	Unverricht-Lundborg Syndrome
+Acne Vulgaris	Myopathies, Nemaline
+Cerebellar Diseases	MELAS Syndrome
+Albinism, Oculocutaneous	Myoclonic Epilepsy, Juvenile
+Ciliary Motility Disorders	Epidermolysis Bullosa
+Vascular Diseases	Drug Eruptions
+Ciliary Motility Disorders	Torsades de Pointes
+Developmental Disabilities	Deglutition Disorders
+Obesity	Esophageal Atresia
+Beckwith-Wiedemann Syndrome	MELAS Syndrome
+Uterine Neoplasms	Dermatitis
+Blindness, Cortical	Choroidal Neovascularization
+Amelogenesis Imperfecta	Pseudohypoparathyroidism
+Agammaglobulinemia	Cytochrome-c Oxidase Deficiency
+Ciliary Motility Disorders	Malaria, Falciparum
+Epilepsy	Hyperpigmentation
+Candidiasis, Chronic Mucocutaneous	Congenital Disorders of Glycosylation
+Schizophrenia	Diabetes Mellitus
+Colitis	Liver Cirrhosis
+Carcinoma, Pancreatic Ductal	Calcinosis
+Lupus Erythematosus, Systemic	Dandy-Walker Syndrome
+Multiple Sclerosis	Nail Diseases
+Blindness, Cortical	Nail Diseases
+Hypertrichosis	Opioid-Related Disorders
+Hypotension	Synovitis
+Arthrogryposis	MELAS Syndrome
+Ischemia	Astrocytoma
+Ischemia	Neoplasms, Germ Cell and Embryonal
+Burkitt Lymphoma	Ectodermal Dysplasia
+Aniridia	X-Linked Combined Immunodeficiency Diseases
+Burkitt Lymphoma	Choroidal Neovascularization
+MELAS Syndrome	Thromboembolism
+Ciliary Motility Disorders	Lymphangioleiomyomatosis
+Enterocolitis	MELAS Syndrome
+DiGeorge Syndrome	MELAS Syndrome
+Acidosis, Lactic	Candidiasis, Chronic Mucocutaneous
+Agammaglobulinemia	Hyperammonemia
+Bipolar Disorder	Fanconi Anemia
+Kidney Diseases	Blood Coagulation Disorders
+Neoplastic Syndromes, Hereditary	Cerebral Infarction
+Intestinal Diseases	Behcet Syndrome
+Ciliary Motility Disorders	Subacute Sclerosing Panencephalitis
+Ciliary Motility Disorders	Nephritis, Interstitial
+Blindness, Cortical	Disorders of Sex Development
+Meningioma	Multiple Myeloma
+Ciliary Motility Disorders	Conjunctivitis
+Brain Diseases	Torsades de Pointes
+Headache	Exophthalmos
+Albinism, Oculocutaneous	Hoarseness
+MELAS Syndrome	Open Bite
+Granuloma	Mitochondrial Encephalomyopathies
+Keratitis	MELAS Syndrome
+Coronary Restenosis	MELAS Syndrome
+Hepatitis B	Stomach Neoplasms
+Aniridia	MELAS Syndrome
+Appendicitis	Mitochondrial Encephalomyopathies
+Amino Acid Metabolism, Inborn Errors	Septo-Optic Dysplasia
+Ischemia	Hypokalemia
+Diabetes Mellitus, Experimental	Hemochromatosis
+Hemolytic-Uremic Syndrome	MELAS Syndrome
+Obsessive-Compulsive Disorder	Chromosome Aberrations
+Cytochrome-c Oxidase Deficiency	Hyper-IgM Immunodeficiency Syndrome, Type 1
+Ciliary Motility Disorders	Periodontitis
+Lymphoproliferative Disorders	MELAS Syndrome
+Hyperpigmentation	MELAS Syndrome
+Dermatitis	MELAS Syndrome
+MELAS Syndrome	Oculocerebrorenal Syndrome
+Ciliary Motility Disorders	Hyperlipoproteinemia Type I
+Ciliary Motility Disorders	Unverricht-Lundborg Syndrome
+Congenital Disorders of Glycosylation	Respiratory Hypersensitivity
+Opioid-Related Disorders	Tracheoesophageal Fistula

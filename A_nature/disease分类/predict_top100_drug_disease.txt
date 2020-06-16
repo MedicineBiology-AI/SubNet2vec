@@ -1,0 +1,20 @@
+kidney neoplasms	DB00775	0.950042999
+lupus erythematosus systemic	DB00530	0.946801301
+leukemia lymphoid	DB00541	0.945817726
+diabetes mellitus type 2	DB00635	0.945035586
+diabetes mellitus type 2	DB00351	0.943608061
+kidney neoplasms	DB00635	0.941337783
+kidney neoplasms	DB00530	0.938864387
+kidney neoplasms	DB00063	0.936494906
+leukemia myeloid acute	DB00993	0.935751558
+leukemia lymphoid	DB01394	0.935482084
+leukemia	DB00242	0.934901733
+crohn disease	DB01005	0.9335909
+diabetes mellitus	DB00588	0.93232141
+diabetes mellitus	DB00635	0.930685845
+crohn disease	DB00530	0.927551025
+liver cirrhosis biliary	DB00530	0.927309855
+diabetes mellitus	DB00351	0.925411881
+crohn disease	DB00993	0.924446058
+diabetes mellitus type 2	DB00421	0.922308334
+hypersensitivity	DB00620	0.920715462

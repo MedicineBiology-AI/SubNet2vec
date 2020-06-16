@@ -1,0 +1,402 @@
+adenocarcinoma	DB00530	1
+adenocarcinoma	DB00322	1
+adenocarcinoma	DB00317	1
+alzheimer disease	DB00843	1
+alzheimer disease	DB00674	1
+alzheimer disease	DB01043	1
+alzheimer disease	DB00989	1
+alzheimer disease	DB01037	0
+alzheimer disease	DB00163	0
+amyotrophic lateral sclerosis	DB00740	1
+anemia	DB00158	1
+anemia	DB00165	1
+anemia	DB00126	0
+anemia hemolytic	DB00163	0
+arrhythmias cardiac	DB01193	1
+arrhythmias cardiac	DB01118	1
+arrhythmias cardiac	DB00390	1
+arrhythmias cardiac	DB00343	0
+arrhythmias cardiac	DB00280	1
+arrhythmias cardiac	DB00204	1
+arrhythmias cardiac	DB04855	1
+arrhythmias cardiac	DB01195	1
+arrhythmias cardiac	DB00308	1
+arrhythmias cardiac	DB01064	1
+arrhythmias cardiac	DB00281	0
+arrhythmias cardiac	DB00379	1
+arrhythmias cardiac	DB00680	0
+arrhythmias cardiac	DB01035	1
+arrhythmias cardiac	DB01182	1
+arrhythmias cardiac	DB00571	1
+arrhythmias cardiac	DB00908	1
+arrhythmias cardiac	DB00489	1
+arrhythmias cardiac	DB00661	1
+arterial occlusive diseases	DB01113	0
+arterial occlusive diseases	DB00086	0
+arteriosclerosis	DB01240	0
+arteriosclerosis	DB00627	1
+arthritis	DB00482	1
+arthritis	DB01234	1
+arthritis	DB00586	1
+arthritis	DB00749	1
+arthritis	DB00741	0
+arthritis	DB01611	1
+arthritis	DB01050	1
+arthritis	DB00328	1
+arthritis	DB01009	1
+arthritis	DB00788	1
+arthritis	DB00635	1
+arthritis	DB00795	0
+arthritis	DB00605	1
+arthritis	DB00620	1
+arthritis rheumatoid	DB00995	1
+arthritis rheumatoid	DB00993	1
+arthritis rheumatoid	DB00482	1
+arthritis rheumatoid	DB00608	0
+arthritis rheumatoid	DB00091	1
+arthritis rheumatoid	DB00586	1
+arthritis rheumatoid	DB00749	1
+arthritis rheumatoid	DB00741	0
+arthritis rheumatoid	DB01611	1
+arthritis rheumatoid	DB01050	1
+arthritis rheumatoid	DB00328	1
+arthritis rheumatoid	DB01009	1
+arthritis rheumatoid	DB01097	1
+arthritis rheumatoid	DB00563	1
+arthritis rheumatoid	DB00788	1
+arthritis rheumatoid	DB00860	0
+arthritis rheumatoid	DB00795	0
+arthritis rheumatoid	DB00605	1
+asthma	DB01223	1
+asthma	DB01274	0
+asthma	DB00572	0
+asthma	DB01003	0
+asthma	DB01234	1
+asthma	DB00651	1
+asthma	DB01364	1
+asthma	DB00588	0
+asthma	DB00741	0
+asthma	DB00221	0
+asthma	DB01064	0
+asthma	DB00920	0
+asthma	DB00471	1
+asthma	DB00716	0
+asthma	DB01303	0
+asthma	DB00860	0
+asthma	DB00635	1
+asthma	DB00852	0
+asthma	DB01001	0
+asthma	DB00277	1
+asthma	DB01409	0
+asthma	DB00549	1
+asthma	DB00744	1
+autoimmune diseases	DB00959	1
+autoimmune diseases	DB00635	1
+bacterial infections	DB01597	0
+bacterial infections	DB01137	1
+bacterial infections	DB00759	1
+blood coagulation disorders	DB01022	1
+blood coagulation disorders	DB00302	1
+bone diseases	DB00136	1
+bone diseases	DB00282	1
+bone diseases	DB00399	1
+bone diseases metabolic	DB00146	0
+breast neoplasms	DB00357	0
+breast neoplasms	DB01101	1
+breast neoplasms	DB00286	0
+breast neoplasms	DB00380	0
+breast neoplasms	DB00255	0
+breast neoplasms	DB01248	1
+breast neoplasms	DB00997	1
+breast neoplasms	DB00445	1
+breast neoplasms	DB00783	1
+breast neoplasms	DB01185	1
+breast neoplasms	DB00014	0
+breast neoplasms	DB01006	1
+breast neoplasms	DB00603	0
+breast neoplasms	DB00351	0
+breast neoplasms	DB00563	1
+breast neoplasms	DB06710	1
+breast neoplasms	DB00675	1
+breast neoplasms	DB00570	1
+breast neoplasms	DB00361	0
+cardiomyopathy dilated	DB01427	0
+cardiovascular diseases	DB01076	1
+cardiovascular diseases	DB00169	1
+cardiovascular diseases	DB00227	1
+cardiovascular diseases	DB00175	1
+cardiovascular diseases	DB00641	1
+colitis	DB00244	1
+colitis	DB00795	1
+colitis ulcerative	DB01014	1
+colitis ulcerative	DB00741	0
+colitis ulcerative	DB01033	0
+colitis ulcerative	DB00244	1
+colitis ulcerative	DB00184	0
+colitis ulcerative	DB01250	1
+colitis ulcerative	DB00860	0
+colitis ulcerative	DB00635	1
+colitis ulcerative	DB00795	1
+collagen diseases	DB00860	0
+collagen diseases	DB00635	1
+colorectal neoplasms	DB00322	0
+coronary artery disease	DB01076	1
+coronary artery disease	DB01039	0
+coronary artery disease	DB00227	1
+coronary artery disease	DB00175	0
+coronary artery disease	DB01599	0
+coronary artery disease	DB00641	1
+coronary disease	DB01076	1
+coronary disease	DB00063	1
+coronary disease	DB01039	0
+coronary disease	DB00883	1
+coronary disease	DB01020	1
+coronary disease	DB00227	1
+coronary disease	DB00790	1
+coronary disease	DB01138	0
+coronary disease	DB00775	1
+crohn disease	DB00169	0
+crohn disease	DB01033	0
+crohn disease	DB00563	0
+crohn disease	DB00860	0
+crohn disease	DB00795	0
+dementia	DB00215	0
+dementia	DB00843	1
+dementia	DB01224	0
+dementia	DB00734	0
+dementia	DB00989	1
+diabetes mellitus	DB00284	1
+diabetes mellitus	DB00672	1
+diabetes mellitus	DB01120	0
+diabetes mellitus	DB01016	1
+diabetes mellitus	DB01306	1
+diabetes mellitus	DB00046	1
+diabetes mellitus	DB00331	1
+diabetes mellitus	DB00491	1
+diabetes mellitus	DB00731	1
+diabetes mellitus	DB01083	0
+diabetes mellitus	DB01132	1
+diabetes mellitus	DB00412	1
+diabetes mellitus	DB00839	1
+diabetes mellitus type 1	DB01306	1
+diabetes mellitus type 1	DB00046	1
+diabetes mellitus type 2	DB00284	1
+diabetes mellitus type 2	DB01076	0
+diabetes mellitus type 2	DB00672	1
+diabetes mellitus type 2	DB01120	0
+diabetes mellitus type 2	DB00222	1
+diabetes mellitus type 2	DB01016	1
+diabetes mellitus type 2	DB01306	1
+diabetes mellitus type 2	DB00046	1
+diabetes mellitus type 2	DB01029	1
+diabetes mellitus type 2	DB06655	0
+diabetes mellitus type 2	DB00678	0
+diabetes mellitus type 2	DB00331	1
+diabetes mellitus type 2	DB00491	1
+diabetes mellitus type 2	DB00731	1
+diabetes mellitus type 2	DB01083	0
+diabetes mellitus type 2	DB01132	1
+diabetes mellitus type 2	DB00412	1
+diabetes mellitus type 2	DB00641	0
+diabetes mellitus type 2	DB01261	1
+diabetes mellitus type 2	DB00839	1
+diabetes mellitus type 2	DB01124	1
+endocrine system diseases	DB00741	0
+endocrine system diseases	DB00396	1
+epilepsy	DB00819	1
+epilepsy	DB00564	1
+epilepsy	DB01068	1
+epilepsy	DB00829	0
+epilepsy	DB00949	1
+epilepsy	DB00996	1
+epilepsy	DB00555	1
+epilepsy	DB01202	1
+epilepsy	DB00230	1
+epilepsy	DB00794	1
+epilepsy	DB06201	1
+epilepsy	DB00273	1
+epilepsy	DB00313	1
+epilepsy	DB01080	1
+eye diseases	DB00635	1
+gastroenteritis	DB00836	1
+gastrointestinal neoplasms	DB00997	1
+gastrointestinal neoplasms	DB00619	1
+head and neck neoplasms	DB01248	1
+head and neck neoplasms	DB01005	1
+head and neck neoplasms	DB01085	1
+head and neck neoplasms	DB00570	0
+heart diseases	DB00571	1
+hematologic diseases	DB00860	0
+hematologic diseases	DB00635	1
+hyperinsulinism	DB01119	1
+hypersensitivity	DB01114	1
+hypersensitivity	DB00434	1
+hypersensitivity	DB01075	1
+hypersensitivity	DB00667	0
+hypersensitivity	DB00920	1
+hypersensitivity	DB00860	1
+hypersensitivity	DB00635	1
+hypersensitivity	DB01069	1
+hypopigmentation	DB00600	1
+inflammatory bowel diseases	DB00244	1
+inflammatory bowel diseases	DB00795	1
+insulin resistance	DB00741	0
+insulin resistance	DB01132	1
+insulin resistance	DB00412	1
+intestinal neoplasms	DB00104	1
+joint diseases	DB00537	1
+joint diseases	DB00586	1
+joint diseases	DB00328	1
+joint diseases	DB00788	1
+keratosis	DB00586	0
+kidney diseases	DB00437	1
+kidney diseases	DB00584	0
+kidney diseases	DB00695	1
+kidney diseases	DB00999	0
+kidney diseases	DB01029	1
+kidney diseases	DB00678	0
+kidney neoplasms	DB01206	0
+kidney neoplasms	DB00570	0
+leukemia	DB01169	1
+leukemia	DB00987	1
+leukemia	DB00694	0
+leukemia	DB00997	1
+leukemia	DB00619	1
+leukemia	DB01033	1
+leukemia	DB00563	0
+leukemia	DB00541	1
+leukemia lymphoid	DB00444	1
+leukemia myeloid acute	DB01169	1
+leukemia myeloid acute	DB00987	1
+leukemia myeloid acute	DB00694	0
+leukemia myeloid acute	DB00997	1
+liver cirrhosis	DB00903	1
+liver cirrhosis	DB00695	1
+liver cirrhosis	DB00421	1
+liver cirrhosis	DB06212	0
+liver cirrhosis	DB00214	0
+liver cirrhosis biliary	DB01394	0
+lung diseases	DB01222	0
+lupus erythematosus systemic	DB00993	0
+lupus erythematosus systemic	DB00091	0
+lupus erythematosus systemic	DB01611	1
+lupus erythematosus systemic	DB00860	0
+lupus erythematosus systemic	DB00635	1
+lymphoma	DB00290	1
+lymphoma	DB00262	1
+lymphoma	DB00242	0
+lymphoma	DB00987	0
+lymphoma	DB00997	1
+lymphoma	DB00445	0
+lymphoma	DB01073	0
+lymphoma	DB01206	1
+lymphoma	DB01033	0
+lymphoma	DB00563	1
+lymphoma	DB06809	1
+lymphoma	DB00860	0
+lymphoma	DB00635	1
+lymphoma	DB00570	1
+lymphoma	DB00541	1
+lymphoma non hodgkin	DB00290	1
+lymphoma non hodgkin	DB00262	1
+lymphoma non hodgkin	DB00242	0
+lymphoma non hodgkin	DB00987	0
+lymphoma non hodgkin	DB01073	0
+lymphoma non hodgkin	DB01206	1
+lymphoma non hodgkin	DB01033	0
+lymphoma non hodgkin	DB01204	0
+lymphoma non hodgkin	DB06809	1
+lymphoma non hodgkin	DB00860	0
+lymphoma non hodgkin	DB00635	0
+lymphoma non hodgkin	DB00541	1
+macular degeneration	DB04895	1
+malabsorption syndromes	DB00162	0
+metabolism inborn errors	DB00121	0
+motor neuron disease	DB00740	1
+multiple sclerosis	DB00993	0
+multiple sclerosis	DB00181	1
+multiple sclerosis	DB00242	0
+multiple sclerosis	DB01219	0
+multiple sclerosis	DB08868	1
+multiple sclerosis	DB01204	1
+multiple sclerosis	DB00860	0
+multiple sclerosis	DB00635	0
+multiple sclerosis	DB00697	0
+mycobacterium infections	DB00615	1
+myocardial ischemia	DB00006	0
+myocardial ischemia	DB01225	1
+myocardial ischemia	DB00063	1
+myocardial ischemia	DB00775	1
+neoplasms	DB00290	1
+neoplasms	DB01101	1
+neoplasms	DB00997	1
+neoplasms	DB00445	1
+neoplasms	DB00317	1
+neoplasms	DB00619	1
+neoplasms	DB00104	1
+neoplasms	DB01268	1
+neoplasms	DB00541	1
+neuroendocrine tumors	DB00104	1
+neuroendocrine tumors	DB01268	1
+pancreatic diseases	DB00522	0
+parkinson disease	DB00915	1
+parkinson disease	DB00714	1
+parkinson disease	DB00245	1
+parkinson disease	DB00810	0
+parkinson disease	DB01200	1
+parkinson disease	DB00248	0
+parkinson disease	DB00190	1
+parkinson disease	DB00494	1
+parkinson disease	DB01235	0
+parkinson disease	DB00387	0
+parkinson disease	DB01367	1
+parkinson disease	DB00989	1
+parkinson disease	DB00268	1
+parkinson disease	DB05271	1
+parkinson disease	DB01037	0
+parkinson disease	DB00376	1
+parkinsonian disorders	DB00915	1
+parkinsonian disorders	DB00190	1
+parkinsonian disorders	DB01235	0
+parkinsonian disorders	DB00268	1
+parkinsonian disorders	DB00376	1
+prostatic neoplasms	DB00357	0
+prostatic neoplasms	DB01128	1
+prostatic neoplasms	DB00269	0
+prostatic neoplasms	DB00255	0
+prostatic neoplasms	DB00997	0
+prostatic neoplasms	DB00783	1
+prostatic neoplasms	DB01196	1
+prostatic neoplasms	DB01216	0
+prostatic neoplasms	DB00499	1
+prostatic neoplasms	DB00014	1
+prostatic neoplasms	DB00007	1
+psoriasis	DB00459	1
+psoriasis	DB00169	0
+psoriasis	DB00091	1
+psoriasis	DB00741	1
+psoriasis	DB01005	0
+psoriasis	DB00563	1
+psoriasis	DB01024	0
+psoriasis	DB00860	0
+psoriasis	DB00936	0
+psoriasis	DB00799	1
+rheumatic diseases	DB00860	0
+rheumatic diseases	DB00635	1
+sarcoma	DB00290	0
+sarcoma	DB00851	0
+sarcoma	DB00997	1
+sarcoma	DB00541	0
+skin diseases	DB00523	1
+skin diseases	DB02300	1
+skin diseases	DB01047	1
+skin diseases	DB00741	1
+skin diseases	DB00337	1
+skin diseases	DB00860	1
+skin diseases	DB00635	1
+spinal cord diseases	DB00181	1
+thyroid diseases	DB00279	1
+varicose veins	DB00464	1
+vascular diseases	DB00627	1
+vascular diseases	DB01113	1
+vascular diseases	DB00806	1

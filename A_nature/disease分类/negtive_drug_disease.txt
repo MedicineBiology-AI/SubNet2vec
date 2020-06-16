@@ -1,0 +1,402 @@
+breast neoplasms	DB00993	0.2
+colitis	DB00603	-0.39
+asthma	DB00829	-0.39
+hyperinsulinism	DB00915	0.55
+neoplasms	DB00734	2.6
+leukemia myeloid acute	DB00006	2.79
+amyotrophic lateral sclerosis	DB00181	-0.52
+varicose veins	DB00302	-0.28
+arthritis rheumatoid	DB00459	1.16
+heart diseases	DB00376	1.23
+epilepsy	DB01076	0.47
+crohn disease	DB01080	0.35
+pancreatic diseases	DB00444	-1.59
+parkinson disease	DB00444	0.45
+colitis ulcerative	DB00136	-1.27
+macular degeneration	DB00999	0.89
+colorectal neoplasms	DB00541	0.75
+amyotrophic lateral sclerosis	DB00459	-0.28
+liver cirrhosis	DB00121	-0.91
+anemia	DB01003	0.24
+arthritis	DB01120	0.0
+hematologic diseases	DB01394	0.11
+diabetes mellitus type 2	DB00007	-0.2
+macular degeneration	DB00627	-0.4
+varicose veins	DB00471	-0.39
+bone diseases metabolic	DB01303	-1.61
+anemia	DB01083	0.34
+autoimmune diseases	DB01261	-1.33
+lung diseases	DB00421	0.08
+varicose veins	DB00007	-0.85
+eye diseases	DB01014	-1.27
+cardiomyopathy dilated	DB00783	-3.05
+metabolism inborn errors	DB00214	-0.1
+arthritis	DB01261	0.26
+liver cirrhosis biliary	DB01113	1.54
+motor neuron disease	DB01169	-0.77
+bone diseases metabolic	DB00537	0.26
+inflammatory bowel diseases	DB06655	0.19
+kidney diseases	DB00380	-1.32
+heart diseases	DB01035	-1.71
+lymphoma	DB00169	0.65
+parkinsonian disorders	DB01169	-2.21
+joint diseases	DB00380	-0.14
+eye diseases	DB00269	0.04
+skin diseases	DB01409	-0.37
+arthritis	DB00603	2.14
+hypersensitivity	DB01113	0.0
+cardiomyopathy dilated	DB01083	-1.69
+parkinsonian disorders	DB01225	-0.55
+parkinsonian disorders	DB00615	0.63
+intestinal neoplasms	DB00741	0.8
+gastroenteritis	DB00555	-0.19
+liver cirrhosis	DB01114	-0.45
+anemia hemolytic	DB00494	-0.1
+pancreatic diseases	DB00351	1.14
+colorectal neoplasms	DB00244	1.06
+gastrointestinal neoplasms	DB00915	0.42
+neoplasms	DB01033	-0.34
+macular degeneration	DB01193	-0.22
+parkinsonian disorders	DB00281	-1.73
+liver cirrhosis biliary	DB00175	-0.34
+coronary disease	DB01035	0.02
+blood coagulation disorders	DB00572	0.66
+bone diseases metabolic	DB00499	0.39
+neuroendocrine tumors	DB00499	1.28
+neuroendocrine tumors	DB01029	-0.54
+crohn disease	DB01274	0.64
+skin diseases	DB00444	-0.22
+neuroendocrine tumors	DB00537	0.58
+lymphoma non hodgkin	DB00819	0.63
+leukemia	DB00790	0.0
+metabolism inborn errors	DB00317	-0.26
+mycobacterium infections	DB00175	-0.52
+leukemia	DB01202	-0.04
+myocardial ischemia	DB01409	1.1
+dementia	DB01132	-1.3
+bone diseases	DB00936	0.46
+blood coagulation disorders	DB01367	0.71
+vascular diseases	DB01303	1.1
+blood coagulation disorders	DB01303	1.3
+parkinson disease	DB01599	-0.6
+anemia	DB00227	0.17
+varicose veins	DB00600	-0.96
+hypersensitivity	DB01020	-2.56
+bone diseases metabolic	DB00586	-0.48
+arthritis	DB00091	0.99
+blood coagulation disorders	DB00843	-1.82
+dementia	DB00279	0.81
+adenocarcinoma	DB00284	1.23
+amyotrophic lateral sclerosis	DB00783	0.68
+pancreatic diseases	DB00806	-0.42
+mycobacterium infections	DB00162	1.41
+arthritis rheumatoid	DB01182	-0.02
+cardiomyopathy dilated	DB00615	1.01
+hypopigmentation	DB00181	0.88
+autoimmune diseases	DB01029	-0.96
+insulin resistance	DB00280	0.24
+leukemia myeloid acute	DB00541	0.64
+hyperinsulinism	DB00570	1.0
+liver cirrhosis	DB00997	0.61
+crohn disease	DB00775	-0.63
+gastrointestinal neoplasms	DB00694	-1.06
+diabetes mellitus	DB00674	2.83
+keratosis	DB01085	0.83
+varicose veins	DB01222	0.37
+coronary disease	DB00731	-0.45
+colitis ulcerative	DB01029	-2.24
+liver cirrhosis	DB01611	-1.25
+colorectal neoplasms	DB01196	-0.64
+spinal cord diseases	DB00608	0.9
+neoplasms	DB00014	-2.33
+diabetes mellitus type 2	DB02300	0.79
+liver cirrhosis biliary	DB00190	-0.05
+diabetes mellitus type 1	DB00214	-0.53
+epilepsy	DB02300	0.14
+vascular diseases	DB01076	-2.15
+leukemia lymphoid	DB00230	-2.31
+breast neoplasms	DB01083	-0.07
+lung diseases	DB06201	0.28
+hematologic diseases	DB00437	1.0
+breast neoplasms	DB00572	1.12
+spinal cord diseases	DB00184	-0.12
+diabetes mellitus	DB00091	0.12
+head and neck neoplasms	DB02300	-1.24
+collagen diseases	DB01001	-0.29
+arthritis rheumatoid	DB00675	1.52
+autoimmune diseases	DB00242	-0.02
+cardiovascular diseases	DB00522	0.07
+liver cirrhosis biliary	DB01047	-1.3
+bone diseases metabolic	DB00269	0.57
+motor neuron disease	DB01202	-0.91
+macular degeneration	DB00175	1.59
+amyotrophic lateral sclerosis	DB00522	0.78
+epilepsy	DB00716	0.47
+arthritis	DB01224	-1.4
+kidney neoplasms	DB00799	0.4
+psoriasis	DB01075	-0.31
+eye diseases	DB01216	-1.91
+blood coagulation disorders	DB00661	0.43
+hypersensitivity	DB00731	1.19
+arthritis rheumatoid	DB00361	-0.78
+leukemia	DB00806	0.73
+gastroenteritis	DB01029	-1.53
+lymphoma non hodgkin	DB01224	0.85
+eye diseases	DB00280	1.31
+arthritis rheumatoid	DB00136	0.64
+heart diseases	DB01611	-0.28
+leukemia myeloid acute	DB00282	-0.05
+thyroid diseases	DB00464	-0.43
+gastroenteritis	DB01114	-0.13
+arrhythmias cardiac	DB00537	0.28
+arteriosclerosis	DB01195	0.95
+sarcoma	DB01303	-0.57
+myocardial ischemia	DB00494	-0.07
+colitis	DB01223	-0.68
+insulin resistance	DB00204	-0.61
+lung diseases	DB01303	0.43
+parkinson disease	DB01268	0.2
+prostatic neoplasms	DB00399	1.09
+arthritis	DB00245	-1.67
+joint diseases	DB01009	0.4
+kidney neoplasms	DB00204	-0.5
+anemia	DB00351	2.06
+bone diseases	DB00091	-0.93
+leukemia myeloid acute	DB00328	0.45
+autoimmune diseases	DB01303	0.45
+anemia hemolytic	DB00989	1.6
+head and neck neoplasms	DB00541	1.48
+head and neck neoplasms	DB01064	-1.45
+malabsorption syndromes	DB00281	-0.26
+sarcoma	DB00799	-3.93
+intestinal neoplasms	DB00555	-0.4
+blood coagulation disorders	DB01195	-0.41
+endocrine system diseases	DB04855	0.74
+leukemia myeloid acute	DB04855	1.04
+leukemia	DB00843	-0.68
+neuroendocrine tumors	DB00163	0.35
+lymphoma non hodgkin	DB01409	0.22
+colitis	DB00794	0.55
+arterial occlusive diseases	DB01085	-0.82
+amyotrophic lateral sclerosis	DB01101	-0.06
+neoplasms	DB00337	-0.16
+parkinson disease	DB00523	0.49
+colitis ulcerative	DB01083	-0.16
+liver cirrhosis	DB00584	-0.85
+bone diseases	DB00993	0.64
+anemia hemolytic	DB00387	0.22
+adenocarcinoma	DB00361	1.32
+kidney diseases	DB00852	0.63
+blood coagulation disorders	DB00269	0.98
+liver cirrhosis biliary	DB00716	-0.54
+metabolism inborn errors	DB00555	0.14
+multiple sclerosis	DB00987	0.1
+psoriasis	DB01204	0.82
+collagen diseases	DB00989	1.33
+parkinsonian disorders	DB00280	0.91
+vascular diseases	DB01261	-1.1
+pancreatic diseases	DB00549	0.13
+diabetes mellitus	DB00379	0.88
+arthritis	DB00204	0.34
+colitis	DB01075	-0.42
+keratosis	DB00563	-0.42
+cardiomyopathy dilated	DB00361	0.63
+bone diseases metabolic	DB00714	3.13
+macular degeneration	DB00571	0.73
+rheumatic diseases	DB00046	1.14
+dementia	DB00749	-0.67
+anemia hemolytic	DB00744	-0.19
+neoplasms	DB00204	0.38
+thyroid diseases	DB00491	1.87
+keratosis	DB01394	0.93
+arthritis rheumatoid	DB00121	-0.16
+vascular diseases	DB00351	1.0
+mycobacterium infections	DB01367	0.51
+endocrine system diseases	DB00357	-1.76
+varicose veins	DB01200	-2.38
+epilepsy	DB00396	-0.31
+autoimmune diseases	DB01216	1.0
+intestinal neoplasms	DB01137	-0.92
+cardiomyopathy dilated	DB01250	-0.48
+leukemia	DB00317	0.17
+vascular diseases	DB01016	1.89
+dementia	DB01409	-0.69
+keratosis	DB01261	1.78
+colorectal neoplasms	DB01138	-0.42
+thyroid diseases	DB00936	0.34
+dementia	DB00678	0.17
+anemia	DB00794	2.13
+sarcoma	DB01124	0.58
+kidney diseases	DB01039	0.83
+arteriosclerosis	DB00790	-0.74
+thyroid diseases	DB00361	0.69
+lymphoma	DB01202	0.42
+lupus erythematosus systemic	DB01409	-0.44
+alzheimer disease	DB00390	0.39
+diabetes mellitus type 2	DB00437	0.44
+macular degeneration	DB01196	-0.25
+gastrointestinal neoplasms	DB00165	0.13
+macular degeneration	DB00313	1.29
+pancreatic diseases	DB01083	0.64
+arthritis	DB01035	0.67
+prostatic neoplasms	DB00555	1.4
+anemia	DB01001	0.67
+asthma	DB00555	-0.75
+rheumatic diseases	DB00302	0.39
+pancreatic diseases	DB01068	-0.16
+skin diseases	DB01080	-0.19
+multiple sclerosis	DB00245	0.48
+multiple sclerosis	DB01039	-1.7
+metabolism inborn errors	DB05271	1.6
+neoplasms	DB00136	0.21
+sarcoma	DB00806	-0.17
+coronary artery disease	DB00376	0.13
+leukemia	DB00165	0.33
+coronary disease	DB01219	0.18
+cardiomyopathy dilated	DB01204	-1.65
+rheumatic diseases	DB08868	1.31
+kidney diseases	DB01611	-0.4
+hyperinsulinism	DB01113	0.99
+coronary artery disease	DB01119	-0.36
+colitis	DB00227	-0.66
+heart diseases	DB00244	-0.73
+dementia	DB00444	0.75
+psoriasis	DB00788	-1.64
+leukemia	DB00615	-0.78
+malabsorption syndromes	DB00741	-0.68
+hematologic diseases	DB00286	0.19
+eye diseases	DB00563	0.43
+joint diseases	DB00903	0.0
+anemia	DB00600	-0.13
+collagen diseases	DB04855	-0.34
+lupus erythematosus systemic	DB01268	-0.45
+bone diseases metabolic	DB00331	0.38
+hyperinsulinism	DB01195	0.45
+insulin resistance	DB00908	-0.03
+diabetes mellitus type 2	DB00563	0.02
+liver cirrhosis	DB01033	-0.08
+arthritis	DB01006	0.48
+anemia	DB01076	0.63
+endocrine system diseases	DB01085	0.56
+insulin resistance	DB00851	-0.51
+lymphoma non hodgkin	DB00989	1.99
+parkinsonian disorders	DB00290	0.02
+bone diseases metabolic	DB00605	-0.28
+diabetes mellitus type 1	DB00268	0.45
+multiple sclerosis	DB01006	0.38
+lupus erythematosus systemic	DB00775	0.78
+insulin resistance	DB04855	-1.33
+heart diseases	DB00843	-0.76
+intestinal neoplasms	DB00379	-1.1
+lung diseases	DB00444	-0.79
+dementia	DB00146	0.74
+bone diseases	DB00908	-0.74
+anemia	DB00361	-0.29
+lupus erythematosus systemic	DB01185	-0.63
+insulin resistance	DB00749	1.0
+kidney diseases	DB01224	1.06
+liver cirrhosis	DB00282	-0.47
+myocardial ischemia	DB00499	-2.5
+dementia	DB00936	-0.34
+myocardial ischemia	DB08868	0.86
+gastroenteritis	DB00380	1.58
+leukemia myeloid acute	DB00214	-0.63
+mycobacterium infections	DB02300	-2.07
+metabolism inborn errors	DB01022	-1.26
+collagen diseases	DB02300	0.11
+colitis	DB00376	-1.48
+mycobacterium infections	DB06212	-0.07
+breast neoplasms	DB00313	0.58
+spinal cord diseases	DB01069	0.4
+breast neoplasms	DB01274	-1.72
+arthritis rheumatoid	DB01037	0.6
+gastroenteritis	DB01268	-1.84
+colitis	DB01169	-0.87
+skin diseases	DB01024	-0.19
+spinal cord diseases	DB01219	0.5
+intestinal neoplasms	DB00564	0.22
+colitis	DB00605	-0.25
+cardiomyopathy dilated	DB01043	-0.74
+insulin resistance	DB00744	-0.4
+mycobacterium infections	DB01248	0.98
+breast neoplasms	DB00716	0.1
+metabolism inborn errors	DB01274	1.31
+collagen diseases	DB00555	0.74
+kidney neoplasms	DB00635	-0.74
+head and neck neoplasms	DB00851	-1.12
+vascular diseases	DB01128	0.03
+colitis	DB00903	-0.33
+neuroendocrine tumors	DB00190	-2.45
+colitis ulcerative	DB00697	-0.92
+gastroenteritis	DB01097	-1.38
+arteriosclerosis	DB00063	-2.08
+joint diseases	DB00795	-0.63
+bone diseases	DB00674	3.03
+joint diseases	DB00522	1.4
+prostatic neoplasms	DB00136	0.69
+arthritis rheumatoid	DB06655	-0.18
+neuroendocrine tumors	DB00843	-0.18
+breast neoplasms	DB00843	-1.9
+adenocarcinoma	DB00268	0.29
+pancreatic diseases	DB01033	-0.04
+autoimmune diseases	DB00661	-1.11
+myocardial ischemia	DB00445	-0.27
+hypopigmentation	DB00343	0.08
+anemia hemolytic	DB00799	0.2
+arthritis	DB01193	0.66
+dementia	DB00819	0.94
+vascular diseases	DB00268	-1.29
+blood coagulation disorders	DB01222	0.69
+lymphoma	DB04895	2.76
+colitis ulcerative	DB01611	-1.02
+colitis	DB00989	2.18
+leukemia myeloid acute	DB01193	0.61
+alzheimer disease	DB00268	0.15
+colitis	DB00284	1.26
+colorectal neoplasms	DB01200	-0.01
+bone diseases	DB01097	-1.11
+lymphoma	DB00491	-1.64
+bone diseases	DB02300	-2.6
+motor neuron disease	DB00749	0.83
+gastroenteritis	DB01216	2.13
+anemia hemolytic	DB01029	0.45
+inflammatory bowel diseases	DB00908	0.23
+anemia	DB01306	1.21
+kidney diseases	DB00464	-1.11
+coronary disease	DB01204	0.44
+heart diseases	DB00667	0.0
+head and neck neoplasms	DB00734	0.64
+leukemia lymphoid	DB00181	0.2
+prostatic neoplasms	DB00697	-1.76
+thyroid diseases	DB00790	-0.92
+amyotrophic lateral sclerosis	DB01022	1.49
+colorectal neoplasms	DB00908	0.02
+alzheimer disease	DB01080	1.55
+liver cirrhosis	DB01029	-0.59
+motor neuron disease	DB01016	-0.18
+collagen diseases	DB01064	0.77
+neoplasms	DB00775	-0.16
+malabsorption syndromes	DB00605	-0.56
+mycobacterium infections	DB01409	0.85
+hypersensitivity	DB01222	-0.99
+dementia	DB00675	-0.11
+malabsorption syndromes	DB08868	-0.79
+bone diseases metabolic	DB00343	-0.03
+gastrointestinal neoplasms	DB06710	-0.07
+alzheimer disease	DB00489	-0.03
+endocrine system diseases	DB00799	-0.18
+diabetes mellitus type 1	DB01611	0.66
+vascular diseases	DB00489	0.11
+kidney diseases	DB00759	1.07
+arterial occlusive diseases	DB00399	0.77
+adenocarcinoma	DB00959	-0.76
+parkinson disease	DB00007	-0.47
+eye diseases	DB00328	-2.13
+blood coagulation disorders	DB01137	0.6
+neuroendocrine tumors	DB01224	0.15
+neoplasms	DB00588	0.77
+diabetes mellitus type 2	DB00421	-0.68
+alzheimer disease	DB00788	-0.14
+breast neoplasms	DB00444	-1.07
+keratosis	DB00104	-0.34
+adenocarcinoma	DB01022	1.91

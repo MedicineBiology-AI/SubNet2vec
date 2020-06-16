@@ -1,0 +1,1292 @@
+Neurofibromatosis 1	Neurofibromatoses
+Respiratory Hypersensitivity	Bronchiolitis Obliterans
+Hypotension	Myocardial Reperfusion Injury
+Thromboembolism	Peripheral Vascular Diseases
+Noonan Syndrome	Rubinstein-Taybi Syndrome
+Coronary Aneurysm	Thromboembolism
+Thrombasthenia	Blood Coagulation Disorders
+Essential Tremor	Parkinsonian Disorders
+Hyperlipidemia Familial Combined	Fatty Liver
+Peripheral Vascular Diseases	Thrombosis
+Tracheoesophageal Fistula	Esophageal Atresia
+Amenorrhea	Infertility
+Parkinsonian Disorders	Tauopathies
+Brucellosis	Staphylococcal Infections
+Gastrinoma	Intestinal Neoplasms
+Dyslipidemias	Hypertriglyceridemia
+Lissencephaly	Epilepsies Partial
+Long QT Syndrome	Tachycardia
+Personality Disorders	Substance-Related Disorders
+Hyperglycemia	Hyperlipoproteinemias
+Lung Diseases Interstitial	Idiopathic Pulmonary Fibrosis
+Angelman Syndrome	Homocystinuria
+Glaucoma Open-Angle	Retinal Vein Occlusion
+Lipodystrophy	Hyperlipidemia Familial Combined
+Cardiomyopathy Hypertrophic Familial	Cardiomyopathies
+Acne Vulgaris	Cushing Syndrome
+Hyperlipidemia Familial Combined	Hyperlipoproteinemias
+Carcinoma Small Cell	Carcinoma Transitional Cell
+Hypercholesterolemia	Lipid Metabolism Disorders
+Hypotension Orthostatic	Cardiomyopathy Hypertrophic Familial
+Li-Fraumeni Syndrome	Dyskeratosis Congenita
+Venous Thromboembolism	Hyperlipoproteinemias
+Retinal Degeneration	Choroideremia
+Coronary Restenosis	Calcinosis
+Arrhythmogenic Right Ventricular Dysplasia	Long QT Syndrome
+Hypercholesterolemia	Iron Overload
+Muscular Dystrophies Limb-Girdle	Muscular Dystrophy Oculopharyngeal
+Wiskott-Aldrich Syndrome	Thrombocytosis
+Lipodystrophy	Gout
+Colonic Polyps	Rectal Neoplasms
+Antisocial Personality Disorder	Rubinstein-Taybi Syndrome
+Asthma	Pleural Diseases
+Hyperlipoproteinemias	Metabolic Syndrome X
+Hypertriglyceridemia	Hyperuricemia
+Aortic Aneurysm	Aortic Aneurysm Thoracic
+Atrial Fibrillation	Ventricular Dysfunction Left
+Aneurysm	Aortic Aneurysm
+Inflammatory Bowel Diseases	Ileitis
+Hemorrhage	Thrombosis
+Nephrotic Syndrome	Pre-Eclampsia
+Epilepsy Generalized	Epilepsy Temporal Lobe
+Hyperlipoproteinemias	Dyslipidemias
+Peripheral Vascular Diseases	Ischemia
+Dystonia	Basal Ganglia Diseases
+Myopathies Nemaline	Andersen Syndrome
+Hemorrhage	Aneurysm
+Severe Acute Respiratory Syndrome	Stevens-Johnson Syndrome
+Prolactinoma	Pituitary Diseases
+Calcinosis	Thrombosis
+Abortion Habitual	Pregnancy Complications
+Craniofacial Abnormalities	Homocystinuria
+Cushing Syndrome	Hyperprolactinemia
+Atrial Fibrillation	Hypotension
+Primary Myelofibrosis	Thrombocytosis
+Leishmaniasis Cutaneous	Inflammation
+Hyponatremia	Substance Withdrawal Syndrome
+Measles	Stevens-Johnson Syndrome
+Dementia	Memory Disorders
+Hypotension	Tachycardia Ventricular
+Sarcoidosis	Behcet Syndrome
+Cytomegalovirus Infections	Brucellosis
+Neutropenia	Brucellosis
+Bronchiectasis	Respiratory Hypersensitivity
+Rhinitis	Respiratory Hypersensitivity
+Parkinsonian Disorders	Multiple System Atrophy
+Bronchial Hyperreactivity	Pleural Diseases
+Amenorrhea	Acne Vulgaris
+Niemann-Pick Disease Type C	Tauopathies
+Epilepsies Partial	Brain Neoplasms
+Hyperlipoproteinemias	Thromboembolism
+Lymphangioleiomyomatosis	Pulmonary Emphysema
+Asbestosis	Respiratory Hypersensitivity
+Tachycardia Ventricular	Long QT Syndrome
+Thromboembolism	Calcinosis
+Aortic Aneurysm Abdominal	Spondylarthropathies
+Neuroectodermal Tumors	Fibromatosis Aggressive
+Diabetic Cardiomyopathies	Cardiomegaly
+Brucellosis	Infection
+Long QT Syndrome	Romano-Ward Syndrome
+Bernard-Soulier Syndrome	Intracranial Hemorrhages
+Thrombasthenia	Periodontitis
+Long QT Syndrome	Ventricular Fibrillation
+Cardiomyopathy Hypertrophic Familial	Syncope
+Arthritis Experimental	Leishmaniasis Cutaneous
+Heroin Dependence	Pre-Eclampsia
+Ischemia	Hyperemia
+Acanthosis Nigricans	Acne Vulgaris
+Hypospadias	Craniofacial Abnormalities
+Alcohol Withdrawal Delirium	Substance-Related Disorders
+Intestinal Polyps	Intestinal Neoplasms
+Aortic Aneurysm Thoracic	Pulmonary Embolism
+Holoprosencephaly	Polydactyly
+Hypocalcemia	Rickets
+Thromboembolism	Hyperlipoproteinemias
+Hemorrhage	Aortic Rupture
+Pre-Eclampsia	Prenatal Exposure Delayed Effects
+Pneumococcal Infections	Sepsis
+Cushing Syndrome	Insulin Resistance
+Leber Congenital Amaurosis	Night Blindness
+Myoclonic Epilepsy Juvenile	Epilepsy Generalized
+Multiple System Atrophy	Parkinsonian Disorders
+Arrhythmogenic Right Ventricular Dysplasia	Syncope
+Psoriasis	Drug Eruptions
+Cafe-au-Lait Spots	Neurofibromatosis 1
+Cardiomegaly	Ventricular Dysfunction Left
+Epilepsies Partial	Glioma
+Pleural Diseases	Hemangiosarcoma
+Thrombosis	Thromboembolism
+Myopathies Nemaline	Muscular Dystrophies Limb-Girdle
+Thrombosis	Thrombophilia
+Rectal Neoplasms	Colonic Neoplasms
+Werner Syndrome	Dyskeratosis Congenita
+Hirschsprung Disease	Megacolon
+Myopia	Refractive Errors
+Peutz-Jeghers Syndrome	Testicular Neoplasms
+Zellweger Syndrome	Mental Retardation X-Linked
+Rectal Neoplasms	Intestinal Polyps
+Myositis	Dermatomyositis
+Hyperinsulinism	Hyperlipoproteinemias
+Rubinstein-Taybi Syndrome	Noonan Syndrome
+Calcinosis	Coronary Restenosis
+Endometrial Neoplasms	Endometrial Hyperplasia
+Uveitis	Leprosy
+Vascular Diseases	Ischemia
+Thrombasthenia	Wiskott-Aldrich Syndrome
+Iron Overload	Hypercholesterolemia
+Testicular Neoplasms	Peutz-Jeghers Syndrome
+Spinal Diseases	Staphylococcal Infections
+Hyperlipoproteinemias	Hypertriglyceridemia
+Spondylarthropathies	Arthritis
+Xeroderma Pigmentosum	Chromosome Aberrations
+Femur Head Necrosis	Arthritis
+Demyelinating Diseases	Intracranial Aneurysm
+Craniofacial Abnormalities	Limb Deformities Congenital
+Psychoses Substance-Induced	Substance-Related Disorders
+Arthritis Experimental	Synovitis
+Angina Pectoris	Coronary Restenosis
+Intestinal Neoplasms	Gastrinoma
+Muscular Dystrophy Oculopharyngeal	Bulbo-Spinal Atrophy X-Linked
+Syncope	Tachycardia Ventricular
+Hyperparathyroidism	Rickets
+Dyslipidemias	Gout
+Peptic Ulcer	Gastrointestinal Diseases
+Epilepsies Partial	Epilepsy
+Hypertriglyceridemia	Venous Thromboembolism
+Tauopathies	Multiple System Atrophy
+Retinal Vein Occlusion	Choroidal Neovascularization
+Neoplasms Experimental	Mammary Neoplasms Experimental
+Hyperlipoproteinemias	Oligospermia
+Anxiety Disorders	Panic Disorder
+Congenital Hypothyroidism	Rubinstein-Taybi Syndrome
+Retinal Degeneration	Leber Congenital Amaurosis
+Aortic Aneurysm Thoracic	Lymphangioleiomyomatosis
+Intestinal Neoplasms	Intestinal Polyps
+Nephrotic Syndrome	Proteinuria
+Intestinal Polyps	Adenomatous Polyposis Coli
+Heart Diseases	Ventricular Dysfunction Left
+Hypersensitivity	Bronchial Hyperreactivity
+Xeroderma Pigmentosum	Tooth Abnormalities
+Respiratory Hypersensitivity	Pleural Diseases
+Cushing Syndrome	Amenorrhea
+Carcinoma Small Cell	Testicular Neoplasms
+Torsades de Pointes	Hypotension
+Polydactyly	Limb Deformities Congenital
+Pulmonary Embolism	Aortic Aneurysm Thoracic
+Hypoparathyroidism	Rickets
+Hemangiosarcoma	Aortic Aneurysm Thoracic
+Muscular Atrophy	Muscular Dystrophies Limb-Girdle
+Gonadal Dysgenesis	Disorders of Sex Development
+Duodenal Ulcer	Helicobacter Infections
+Neuromuscular Diseases	Muscular Dystrophy Facioscapulohumeral
+Choroidal Neovascularization	Retinal Detachment
+Marfan Syndrome	Ehlers-Danlos Syndrome
+Cardiomyopathy Hypertrophic Familial	Long QT Syndrome
+Diabetes Mellitus	Hyperlipoproteinemias
+Intracranial Aneurysm	Migraine with Aura
+Hypersensitivity	Dermatitis Atopic
+Abortion Habitual	Pre-Eclampsia
+Crohn Disease	Schistosomiasis mansoni
+Thromboembolism	Heart Diseases
+Sepsis	Multiple Organ Failure
+Dyskeratosis Congenita	Li-Fraumeni Syndrome
+Disseminated Intravascular Coagulation	Sepsis
+Hyperemia	Reperfusion Injury
+Thrombocytosis	Wiskott-Aldrich Syndrome
+Substance-Related Disorders	Alcohol Withdrawal Delirium
+Appendicitis	Peritonitis
+Aneurysm	Hemorrhage
+Rickets	Parathyroid Neoplasms
+Lipid Metabolism Disorders	Hyperlipoproteinemias
+Mood Disorders	Personality Disorders
+Disorders of Sex Development	Gynecomastia
+Hyperlipidemia Familial Combined	Hypertriglyceridemia
+Staphylococcal Infections	Spinal Diseases
+Hyperlipoproteinemias	Fatty Liver
+Essential Tremor	Tremor
+Common Variable Immunodeficiency	Autoimmune Lymphoproliferative Syndrome
+Infection	Brucellosis
+Hypotension	Hypotension Orthostatic
+Reperfusion Injury	Myocardial Reperfusion Injury
+Arthritis Psoriatic	Spondylarthropathies
+Nevus	Rubinstein-Taybi Syndrome
+Retinal Vein Occlusion	Glaucoma Open-Angle
+Neoplasms Germ Cell and Embryonal	Testicular Neoplasms
+Pre-Eclampsia	Heroin Dependence
+Hypercholesterolemia	Gout
+Endotoxemia	Hypotension
+Mood Disorders	Cognition Disorders
+Metabolic Diseases	Lipid Metabolism Disorders
+Intracranial Aneurysm	Carotid Artery Diseases
+Hypothyroidism	Congenital Hypothyroidism
+Brain Diseases	Substance Withdrawal Syndrome
+Sepsis	Staphylococcal Infections
+Fetal Membranes Premature Rupture	Fetal Diseases
+Intervertebral Disk Displacement	Spinal Diseases
+Mammary Neoplasms Experimental	Neoplasms Experimental
+Hyperlipidemia Familial Combined	Atherosclerosis
+Cerebral Amyloid Angiopathy	Nerve Degeneration
+Carotid Stenosis	Carotid Artery Diseases
+Uterine Neoplasms	Endometrial Neoplasms
+Respiratory Distress Syndrome Adult	Endotoxemia
+Lymphopenia	Hypergammaglobulinemia
+Aortic Valve Stenosis	Calcinosis
+Muscular Dystrophy Emery-Dreifuss	Neuromuscular Diseases
+Aortic Aneurysm	Myxoma
+Myopathies Nemaline	Muscular Dystrophy Emery-Dreifuss
+Hypotension	Endotoxemia
+Intracranial Hemorrhages	Bernard-Soulier Syndrome
+Hypotension	Respiratory Distress Syndrome Adult
+Pulmonary Emphysema	Lymphangioleiomyomatosis
+Osteoarthritis Knee	Hemochromatosis
+Personality Disorders	Anxiety Disorders
+Inflammatory Bowel Diseases	Schistosomiasis mansoni
+Long QT Syndrome	Torsades de Pointes
+Hypertriglyceridemia	Gout
+Dyslipidemias	Hyperuricemia
+Movement Disorders	Basal Ganglia Diseases
+Neoplasms Germ Cell and Embryonal	Carcinoma Small Cell
+Arthritis	Spondylarthropathies
+Nephritis Interstitial	Nephrotic Syndrome
+Irritable Bowel Syndrome	Enterocolitis
+Rectal Neoplasms	Multiple Endocrine Neoplasia
+Torsades de Pointes	Syncope
+Thromboembolism	Venous Thrombosis
+Hemolytic-Uremic Syndrome	Disseminated Intravascular Coagulation
+Coronary Stenosis	Myocardial Infarction
+Pleural Diseases	Pulmonary Fibrosis
+Mesothelioma	Thymus Neoplasms
+Respiratory Distress Syndrome Adult	Myocardial Reperfusion Injury
+Pick Disease of the Brain	Niemann-Pick Disease Type C
+Head and Neck Neoplasms	Neoplasm Recurrence Local
+Neoplasm Recurrence Local	Carcinoma Transitional Cell
+Intestinal Neoplasms	Colonic Polyps
+Epilepsies Partial	Epilepsies Myoclonic
+Ischemia	Peripheral Vascular Diseases
+Ileitis	Colonic Polyps
+Brucellosis	Cytomegalovirus Infections
+Dementia Vascular	Nerve Degeneration
+Diabetes Mellitus Experimental	Albuminuria
+Ischemia	Vascular Diseases
+Bronchiolitis Obliterans	Respiratory Hypersensitivity
+Rubinstein-Taybi Syndrome	Homocystinuria
+Hypospadias	Urogenital Abnormalities
+Aortic Aneurysm	Hemangiosarcoma
+Pre-Eclampsia	Nephrotic Syndrome
+Intestinal Polyps	Rectal Neoplasms
+Hypoparathyroidism	Hyperparathyroidism
+Thrombosis	Hemorrhage
+Rectal Neoplasms	Carcinoma Small Cell
+Gastrointestinal Neoplasms	Intestinal Neoplasms
+Muscular Atrophy	Neuromuscular Diseases
+Acne Vulgaris	Androgen-Insensitivity Syndrome
+Limb Deformities Congenital	Craniofacial Abnormalities
+Coronary Artery Disease	Coronary Stenosis
+Retinal Detachment	Choroidal Neovascularization
+Protein S Deficiency	Protein C Deficiency
+Cystadenocarcinoma Serous	Colonic Polyps
+Hematuria	Pre-Eclampsia
+Hyperalgesia	Sciatic Neuropathy
+Insulin Resistance	Lipid Metabolism Disorders
+Myocardial Reperfusion Injury	Respiratory Distress Syndrome Adult
+Ventricular Fibrillation	Heart Diseases
+Aortic Aneurysm	Heart Diseases
+Substance-Related Disorders	Neurotoxicity Syndromes
+Intestinal Polyps	Gastrointestinal Neoplasms
+Memory Disorders	Dementia
+Venous Thromboembolism	Cushing Syndrome
+Dementia	Nerve Degeneration
+Intestinal Polyposis	Gastrinoma
+Stevens-Johnson Syndrome	Severe Acute Respiratory Syndrome
+Hypergammaglobulinemia	Lymphopenia
+Multiple Endocrine Neoplasia	Colonic Polyps
+Carotid Artery Diseases	Intracranial Aneurysm
+Rectal Neoplasms	Intestinal Polyposis
+Intestinal Polyposis	Rectal Neoplasms
+Hypersensitivity	Respiratory Hypersensitivity
+Endotoxemia	Reperfusion Injury
+Reperfusion Injury	Endotoxemia
+MELAS Syndrome	Mitochondrial Myopathies
+Androgen-Insensitivity Syndrome	Amenorrhea
+Hypercholesterolemia	Venous Thromboembolism
+Ventricular Fibrillation	Tachycardia Ventricular
+Aortic Aneurysm Thoracic	Behcet Syndrome
+Thrombophilia	Carotid Stenosis
+Tachycardia	Hypotension
+Keratoconus	Retinal Diseases
+Cardiomyopathy Hypertrophic Familial	Hypotension Orthostatic
+Hyperlipidemia Familial Combined	Metabolic Diseases
+Glomerulonephritis Membranoproliferative	Polycystic Kidney Autosomal Dominant
+Cholestasis	Drug Eruptions
+Gastrinoma	Rectal Neoplasms
+Hypotension	Torsades de Pointes
+Cardiomyopathy Hypertrophic Familial	Tachycardia
+Polyuria	Hypercalcemia
+Drug Eruptions	Cholestasis
+Migraine with Aura	Cerebrovascular Disorders
+Congenital Hypothyroidism	Goiter
+Measles	Acquired Immunodeficiency Syndrome
+Venous Thromboembolism	Insulin Resistance
+Myxoma	Lung Diseases Interstitial
+Sciatic Neuropathy	Leishmaniasis Cutaneous
+Carcinoma Transitional Cell	Carcinoma Small Cell
+Lung Diseases Interstitial	Myxoma
+Syncope	Long QT Syndrome
+Gastrointestinal Stromal Tumors	Schistosomiasis mansoni
+Li-Fraumeni Syndrome	Bloom Syndrome
+Tachycardia Ventricular	Atrial Fibrillation
+Fatty Liver	Hyperlipidemia Familial Combined
+Choroidal Neovascularization	Retinal Vein Occlusion
+Nerve Degeneration	Parkinsonian Disorders
+Polydactyly	Holoprosencephaly
+Multiple System Atrophy	Tauopathies
+Hypospadias	Rubinstein-Taybi Syndrome
+Hyperlipoproteinemias	Hypopituitarism
+Pulmonary Fibrosis	Pleural Diseases
+Pregnancy Complications	Abortion Habitual
+Pulmonary Fibrosis	Lung Diseases Obstructive
+Lymphatic Diseases	Agammaglobulinemia
+Fibrosis	Nephrosis
+Drug Eruptions	Keloid
+Gastrointestinal Neoplasms	Intestinal Polyps
+Leber Congenital Amaurosis	Retinal Degeneration
+Schistosomiasis mansoni	Gastrointestinal Stromal Tumors
+Coronary Artery Disease	Angina Pectoris
+Venous Thrombosis	Thromboembolism
+Klinefelter Syndrome	Rett Syndrome
+Thrombasthenia	Thrombocythemia Essential
+Hyperparathyroidism	Hypoparathyroidism
+Hypophosphatemia	Nephrolithiasis
+Ventricular Dysfunction Left	Cardiomegaly
+Amenorrhea	Polycystic Ovary Syndrome
+Glomerulonephritis	Nephrosis
+Insulin Resistance	Dyslipidemias
+Amino Acid Metabolism Inborn Errors	Phenylketonurias
+Tachycardia Ventricular	Atrioventricular Block
+Bronchial Hyperreactivity	Respiratory Hypersensitivity
+Coronary Restenosis	Heart Diseases
+Atrial Fibrillation	Romano-Ward Syndrome
+Coronary Restenosis	Microvascular Angina
+Myopathies Nemaline	Muscular Dystrophy Duchenne
+Growth Disorders	Rubinstein-Taybi Syndrome
+Ventricular Fibrillation	Tachycardia
+Craniofacial Abnormalities	Rubinstein-Taybi Syndrome
+Hypertriglyceridemia	Hyperlipoproteinemias
+Dementia	Dementia Vascular
+Aortic Aneurysm Thoracic	Hemangiosarcoma
+Anorexia Nervosa	Substance-Related Disorders
+Psychoses Substance-Induced	Psychotic Disorders
+Psychotic Disorders	Alcohol Withdrawal Delirium
+Kartagener Syndrome	Ciliary Motility Disorders
+Myocardial Ischemia	Angina Pectoris
+Vascular Diseases	Peripheral Vascular Diseases
+Hypergammaglobulinemia	Lymphoproliferative Disorders
+Tooth Abnormalities	Xeroderma Pigmentosum
+Leishmaniasis Cutaneous	Hyperalgesia
+Myocardial Infarction	Coronary Stenosis
+Tuberous Sclerosis	Macrocephaly
+Hyperparathyroidism	Hypocalcemia
+Neoplasm Recurrence Local	Carcinoma Small Cell
+Hyperlipoproteinemias	Insulin Resistance
+Gout	Venous Thrombosis
+Brucellosis	Neutropenia
+Metabolic Syndrome X	Hyperlipoproteinemias
+Glioma	Epilepsies Partial
+Disorders of Sex Development	Gonadal Dysgenesis
+Cardiomyopathy Hypertrophic Familial	Ventricular Fibrillation
+Lymphoproliferative Disorders	Hypergammaglobulinemia
+Drug Eruptions	Psoriasis
+Lipid Metabolism Disorders	Arteriosclerosis
+Angina Pectoris	Myocardial Ischemia
+Sepsis	Endotoxemia
+Rectal Neoplasms	Neoplasm Recurrence Local
+Androgen-Insensitivity Syndrome	Disorders of Sex Development
+Progeria	Werner Syndrome
+Dyslipidemias	Lipid Metabolism Disorders
+Epilepsy	Alcohol Withdrawal Delirium
+Mitochondrial Myopathies	MELAS Syndrome
+Coronary Restenosis	Myocardial Ischemia
+Drug Eruptions	Exanthema
+Lymphatic Metastasis	Neoplasm Recurrence Local
+Multiple System Atrophy	Nerve Degeneration
+Salivary Gland Neoplasms	Neurilemmoma
+Aneurysm Dissecting	Coronary Aneurysm
+Thrombosis	Hemolytic-Uremic Syndrome
+Arrhythmogenic Right Ventricular Dysplasia	Tachycardia Ventricular
+Aortic Aneurysm	Pulmonary Embolism
+Ovarian Diseases	Amenorrhea
+Hyperuricemia	Hypercholesterolemia
+Hyperinsulinism	Venous Thromboembolism
+Autoimmune Lymphoproliferative Syndrome	Wiskott-Aldrich Syndrome
+Infection	Severe Acute Respiratory Syndrome
+Venous Thromboembolism	Hyperinsulinism
+Syncope	Atrial Fibrillation
+Parkinsonian Disorders	Pick Disease of the Brain
+Pleural Diseases	Mesothelioma
+Arrhythmogenic Right Ventricular Dysplasia	Bradycardia
+Diabetic Retinopathy	Diabetic Angiopathies
+Intestinal Neoplasms	Carcinoid Tumor
+Spondylarthropathies	Arthritis Psoriatic
+Hyperuricemia	Gout
+Lymphatic Metastasis	Carcinoma Small Cell
+Gout	Insulin Resistance
+Tauopathies	Niemann-Pick Disease Type C
+Marfan Syndrome	Homocystinuria
+Stomach Diseases	Esophageal Neoplasms
+Substance Withdrawal Syndrome	Hyponatremia
+Drug Eruptions	Cholangitis Sclerosing
+Pre-Eclampsia	Nephritis Interstitial
+Metabolic Syndrome X	Hyperlipidemia Familial Combined
+Intestinal Neoplasms	Rectal Neoplasms
+Amyloidosis	Schistosomiasis mansoni
+Ovarian Diseases	Androgen-Insensitivity Syndrome
+Dementia	Frontotemporal Lobar Degeneration
+Bronchial Hyperreactivity	Hypersensitivity
+Premature Birth	Pre-Eclampsia
+Gastrointestinal Diseases	Duodenal Ulcer
+Xeroderma Pigmentosum	Macrocephaly
+Hypospadias	Gonadal Dysgenesis
+Fetal Diseases	Fetal Membranes Premature Rupture
+Hypotension Orthostatic	Hypotension
+Hypotension Orthostatic	Tachycardia Ventricular
+Refractive Errors	Eye Abnormalities
+Rubinstein-Taybi Syndrome	Craniofacial Abnormalities
+Aortic Rupture	Hemorrhage
+Asbestosis	Pulmonary Embolism
+Parkinson Disease	Basal Ganglia Diseases
+Colonic Polyps	Intestinal Neoplasms
+Malaria	Brucellosis
+Refractive Errors	Amblyopia
+Intestinal Polyps	Schistosomiasis mansoni
+Osteoporosis Postmenopausal	Spinal Diseases
+Retinal Diseases	Choroideremia
+Peutz-Jeghers Syndrome	Intestinal Neoplasms
+Syndactyly	Limb Deformities Congenital
+Amenorrhea	Androgen-Insensitivity Syndrome
+Acquired Immunodeficiency Syndrome	Measles
+Hypertriglyceridemia	Hypercholesterolemia
+Glomerulonephritis Membranoproliferative	Pre-Eclampsia
+Angina Pectoris	Aortic Valve Stenosis
+Peritonitis	Appendicitis
+Muscular Dystrophy Emery-Dreifuss	Muscular Dystrophies Limb-Girdle
+Multiple Organ Failure	Ventricular Dysfunction Left
+Limb Deformities Congenital	Polydactyly
+Atherosclerosis	Venous Thromboembolism
+Myocardial Reperfusion Injury	Reperfusion Injury
+Hemophilia A	Hemophilia B
+Substance-Related Disorders	Substance Withdrawal Syndrome
+Coronary Stenosis	Coronary Artery Disease
+Metabolic Diseases	Hyperlipoproteinemias
+Goiter	Congenital Hypothyroidism
+Hypophosphatemia	Hypercalcemia
+Ischemia	Thrombosis
+alpha 1-Antitrypsin Deficiency	Pulmonary Embolism
+Retinitis Pigmentosa	Night Blindness
+Lung Diseases Obstructive	Pulmonary Fibrosis
+Bloom Syndrome	Li-Fraumeni Syndrome
+Celiac Disease	Gastrinoma
+Basal Ganglia Diseases	Parkinson Disease
+Gastrointestinal Neoplasms	Rectal Neoplasms
+Cushing Syndrome	Acne Vulgaris
+Hypoxia-Ischemia Brain	Brain Ischemia
+Rubinstein-Taybi Syndrome	Blepharophimosis
+Thrombophilia	Thromboembolism
+Reperfusion Injury	Hyperemia
+Substance-Related Disorders	Psychoses Substance-Induced
+Respiratory Distress Syndrome Adult	Hypotension
+Hypergammaglobulinemia	Familial Mediterranean Fever
+Hypersensitivity	Asbestosis
+Amblyopia	Refractive Errors
+Disseminated Intravascular Coagulation	Blood Coagulation Disorders
+Acromegaly	Acanthosis Nigricans
+Gastrointestinal Neoplasms	Carcinoma Small Cell
+Alcohol Withdrawal Delirium	Epilepsy
+Hypertriglyceridemia	Cholelithiasis
+Muscular Dystrophy Oculopharyngeal	Muscular Dystrophies Limb-Girdle
+Colonic Neoplasms	Rectal Neoplasms
+Arrhythmogenic Right Ventricular Dysplasia	Torsades de Pointes
+Endometrial Neoplasms	Uterine Neoplasms
+Peripheral Vascular Diseases	Vascular Diseases
+Cerebral Hemorrhage	Migraine with Aura
+Polycystic Ovary Syndrome	Amenorrhea
+Gastrinoma	Intestinal Polyposis
+Neuromuscular Diseases	Muscular Atrophy
+Myoclonus	Epilepsies Myoclonic
+Peutz-Jeghers Syndrome	Intestinal Polyps
+Idiopathic Pulmonary Fibrosis	Lung Diseases Interstitial
+Craniofacial Abnormalities	Hypospadias
+Acanthosis Nigricans	Acromegaly
+Hemochromatosis	Osteoarthritis Knee
+Hypoparathyroidism	Hypocalcemia
+Gout	Lipodystrophy
+Thrombocythemia Essential	Thrombocytosis
+Chromosome Breakage	Chromosome Aberrations
+Acquired Immunodeficiency Syndrome	Celiac Disease
+Acromegaly	Cushing Syndrome
+Cushing Syndrome	Acromegaly
+Myocardial Ischemia	Coronary Restenosis
+Cerebral Amyloid Angiopathy	Neurotoxicity Syndromes
+Xeroderma Pigmentosum	Chromosome Breakage
+Head and Neck Neoplasms	Mouth Neoplasms
+Muscular Dystrophy Duchenne	Myopathies Nemaline
+Substance Withdrawal Syndrome	Brain Diseases
+Synovitis	Arthritis Experimental
+Muscular Dystrophies Limb-Girdle	Neuromuscular Diseases
+Oligospermia	Hyperlipoproteinemias
+Venous Thromboembolism	Hypertriglyceridemia
+Polycystic Ovary Syndrome	Acne Vulgaris
+Heart Diseases	Hypotension
+Pneumococcal Infections	Bacteremia
+Thrombosis	Aortic Aneurysm
+Torsades de Pointes	Ventricular Fibrillation
+Staphylococcal Infections	Sepsis
+Gout	Hypertriglyceridemia
+Developmental Disabilities	Rubinstein-Taybi Syndrome
+Neuromuscular Diseases	Muscular Dystrophy Emery-Dreifuss
+Hyperlipoproteinemias	Gout
+Venous Thrombosis	Angioedemas Hereditary
+Ehlers-Danlos Syndrome	Marfan Syndrome
+Ventricular Dysfunction Left	Heart Diseases
+Lissencephaly	Malformations of Cortical Development
+Hematuria	Glomerulonephritis Membranoproliferative
+Lipid Metabolism Disorders	Hypertriglyceridemia
+Spondylarthropathies	Aortic Aneurysm Abdominal
+Aneurysm Dissecting	Aortic Aneurysm Thoracic
+Fanconi Anemia	Cafe-au-Lait Spots
+Uveitis	Retinal Vein Occlusion
+Lissencephaly	Microcephaly
+Bernard-Soulier Syndrome	Wiskott-Aldrich Syndrome
+Respiratory Distress Syndrome Adult	Polycythemia
+Amenorrhea	Ovarian Diseases
+Rubinstein-Taybi Syndrome	Osteochondrodysplasias
+Arrhythmogenic Right Ventricular Dysplasia	Hypotension Orthostatic
+Syncope	Ventricular Fibrillation
+Arrhythmogenic Right Ventricular Dysplasia	Hypotension
+Nephrotic Syndrome	Nephritis Interstitial
+Hypospadias	Syndactyly
+Hemangiosarcoma	Lymphangioleiomyomatosis
+Duodenal Ulcer	Gastrointestinal Diseases
+Night Blindness	Leber Congenital Amaurosis
+Syncope	Torsades de Pointes
+Syncope	Hypotension
+Disseminated Intravascular Coagulation	Hemolytic-Uremic Syndrome
+Dyslipidemias	Hypercholesterolemia
+Dermatitis Atopic	Drug Eruptions
+Respiratory Distress Syndrome Adult	Reperfusion Injury
+Vesico-Ureteral Reflux	Urogenital Abnormalities
+Respiratory Hypersensitivity	Asthma
+Heart Diseases	Aortic Aneurysm
+Nephritis Interstitial	Pre-Eclampsia
+Crohn Disease	Ileitis
+Glaucoma Open-Angle	Low Tension Glaucoma
+Spinal Diseases	Osteoporosis Postmenopausal
+Hyperlipoproteinemias	Hyperuricemia
+Fatty Liver	Cholelithiasis
+Vascular Diseases	Thromboembolism
+Failure to Thrive	Growth Disorders
+Hyperlipoproteinemias	Metabolic Diseases
+Long QT Syndrome	Syncope
+Ventricular Fibrillation	Hypotension Orthostatic
+Nerve Degeneration	Multiple System Atrophy
+Thrombosis	Calcinosis
+Fibromatosis Aggressive	Neuroectodermal Tumors
+Ventricular Fibrillation	Romano-Ward Syndrome
+Atrial Fibrillation	Arrhythmogenic Right Ventricular Dysplasia
+Hyperalgesia	Arthritis Experimental
+Intestinal Neoplasms	Schistosomiasis mansoni
+Thrombosis	Ischemia
+Torsades de Pointes	Romano-Ward Syndrome
+Albinism	Night Blindness
+Ileitis	Inflammatory Bowel Diseases
+Celiac Disease	Schistosomiasis mansoni
+Ventricular Dysfunction Left	Atrial Fibrillation
+Bulimia Nervosa	Anorexia Nervosa
+Acne Vulgaris	Polycystic Ovary Syndrome
+Muscular Dystrophy Facioscapulohumeral	Neuromuscular Diseases
+Fanconi Anemia	Chromosome Aberrations
+Muscular Dystrophy Emery-Dreifuss	Myopathies Nemaline
+Homocystinuria	Rubinstein-Taybi Syndrome
+Lipid Metabolism Disorders	Fatty Liver
+Hypospadias	Polydactyly
+Helicobacter Infections	Duodenal Ulcer
+Multiple Endocrine Neoplasia	Rectal Neoplasms
+Thrombocytosis	Primary Myelofibrosis
+Schistosomiasis	Fabry Disease
+Aortic Aneurysm	Calcinosis
+Hypercalcemia	Hypophosphatemia
+Schistosomiasis mansoni	Intestinal Neoplasms
+Romano-Ward Syndrome	Atrial Fibrillation
+Eye Abnormalities	Choroideremia
+Brucellosis	Tuberculosis
+Hypertriglyceridemia	Hyperlipidemia Familial Combined
+Torsades de Pointes	Bradycardia
+Respiratory Hypersensitivity	Asbestosis
+Hypotension	Heart Diseases
+Amenorrhea	Acanthosis Nigricans
+Mesothelioma	Pleural Diseases
+Pre-Eclampsia	Premature Birth
+Muscular Dystrophies Limb-Girdle	Muscular Dystrophy Duchenne
+Diabetes Mellitus Experimental	Diabetic Angiopathies
+Hypertriglyceridemia	Lipid Metabolism Disorders
+Tachycardia Ventricular	Hypotension
+Night Blindness	Albinism
+Hypertriglyceridemia	Iron Overload
+Asthma	Respiratory Hypersensitivity
+Mouth Neoplasms	Head and Neck Neoplasms
+Neuromuscular Diseases	Muscular Dystrophies Limb-Girdle
+Heroin Dependence	Fetal Growth Retardation
+Pituitary Diseases	Prolactinoma
+Sepsis	Disseminated Intravascular Coagulation
+Epilepsy Temporal Lobe	Epilepsy Rolandic
+Hypertriglyceridemia	Fatty Liver
+Bloom Syndrome	Werner Syndrome
+Hyperlipoproteinemias	Polycystic Ovary Syndrome
+Chromosome Aberrations	Fanconi Anemia
+Atrial Fibrillation	Tachycardia Ventricular
+Blood Coagulation Disorders	Disseminated Intravascular Coagulation
+Urogenital Abnormalities	Vesico-Ureteral Reflux
+Werner Syndrome	Bloom Syndrome
+Hyperprolactinemia	Lipodystrophy
+Acanthosis Nigricans	Hyperprolactinemia
+Malformations of Cortical Development	Lissencephaly
+Aortic Aneurysm Thoracic	Aneurysm Dissecting
+Cardiomyopathy Hypertrophic Familial	Bradycardia
+Ileitis	Crohn Disease
+Epilepsy Temporal Lobe	Epilepsy Generalized
+Arrhythmogenic Right Ventricular Dysplasia	Cardiomyopathy Hypertrophic Familial
+Aortic Aneurysm Thoracic	Aortic Aneurysm
+Dyslipidemias	Fatty Liver
+Ischemia	Reperfusion Injury
+Hypersensitivity	Respiratory Tract Infections
+Tachycardia Ventricular	Cardiomyopathy Hypertrophic Familial
+Atrioventricular Block	Long QT Syndrome
+Celiac Disease	Acquired Immunodeficiency Syndrome
+Li-Fraumeni Syndrome	Werner Syndrome
+Tachycardia Ventricular	Hypotension Orthostatic
+Neurotoxicity Syndromes	Cerebral Amyloid Angiopathy
+Hypocalcemia	Hyperparathyroidism
+Hypotension Orthostatic	Arrhythmogenic Right Ventricular Dysplasia
+Choroideremia	Retinal Diseases
+Aortic Aneurysm Thoracic	Aneurysm
+Nasopharyngeal Neoplasms	Oral Submucous Fibrosis
+Gastrinoma	Intestinal Polyps
+Carotid Stenosis	Thrombophilia
+Cognition Disorders	Mood Disorders
+Dementia Vascular	Dementia
+Calcinosis	Aortic Aneurysm
+Neoplasm Recurrence Local	Rectal Neoplasms
+Carcinoid Tumor	Intestinal Neoplasms
+Romano-Ward Syndrome	Torsades de Pointes
+Syndactyly	Polydactyly
+Anophthalmos	Rubinstein-Taybi Syndrome
+Hypotension	Syncope
+Nephrosis	Nephrotic Syndrome
+Myocardial Reperfusion Injury	Mammary Neoplasms Experimental
+Prader-Willi Syndrome	Cushing Syndrome
+Arthritis Experimental	Hyperalgesia
+Hypopituitarism	Hyperlipoproteinemias
+Colonic Polyps	Ileitis
+Night Blindness	Retinal Diseases
+Long QT Syndrome	Bradycardia
+Cardiomyopathy Hypertrophic Familial	Pulmonary Embolism
+Unverricht-Lundborg Syndrome	Myoclonic Epilepsies Progressive
+Retinal Vein Occlusion	Uveitis
+Acne Vulgaris	Alopecia
+Hyperlipoproteinemias	Atherosclerosis
+Myopathies Nemaline	Muscle Weakness
+Neurofibromatosis 1	Cafe-au-Lait Spots
+Arteriosclerosis	Hyperlipoproteinemias
+Hypoglycemia	Heroin Dependence
+Polycystic Ovary Syndrome	Hyperlipoproteinemias
+Heart Diseases	Tachycardia Ventricular
+Hyperlipoproteinemias	Diabetes Mellitus
+Rubinstein-Taybi Syndrome	Pyruvate Carboxylase Deficiency Disease
+Hemorrhagic Disorders	Disseminated Intravascular Coagulation
+Schistosomiasis mansoni	Amyloidosis
+Coronary Aneurysm	Aneurysm Dissecting
+Drug Eruptions	Dermatitis Atopic
+Tachycardia	Long QT Syndrome
+Nerve Degeneration	Cerebral Amyloid Angiopathy
+Thrombocythemia Essential	Thrombasthenia
+Thromboembolism	Coronary Restenosis
+Substance-Related Disorders	Personality Disorders
+Dermatomyositis	Myositis
+Torsades de Pointes	Tachycardia
+Parkinsonian Disorders	Nerve Degeneration
+Acanthosis Nigricans	Amenorrhea
+Nerve Degeneration	Dementia Vascular
+Sepsis	Pneumococcal Infections
+Hypercholesterolemia	Hyperlipidemia Familial Combined
+Tachycardia	Tachycardia Ventricular
+Ventricular Dysfunction Left	Multiple Organ Failure
+Cardiomyopathies	Tachycardia Ventricular
+Autistic Disorder	Rubinstein-Taybi Syndrome
+Rubinstein-Taybi Syndrome	Congenital Hypothyroidism
+Bradycardia	Torsades de Pointes
+Asbestosis	Pulmonary Emphysema
+Neurofibromatoses	Cafe-au-Lait Spots
+Substance Withdrawal Syndrome	Epilepsies Partial
+Hyperlipoproteinemias	Lipodystrophy
+Lipid Metabolism Disorders	Metabolic Syndrome X
+Fatty Liver	Lipid Metabolism Disorders
+Angioedemas Hereditary	Venous Thrombosis
+Pleural Diseases	Lung Neoplasms
+Urticaria	Drug Eruptions
+Refractive Errors	Myopia
+Blepharophimosis	Limb Deformities Congenital
+Autoimmune Lymphoproliferative Syndrome	Common Variable Immunodeficiency
+Arthritis	Femur Head Necrosis
+Cerebrovascular Disorders	Migraine with Aura
+Hyperuricemia	Dyslipidemias
+Hemorrhagic Disorders	Blood Coagulation Disorders
+Werner Syndrome	Li-Fraumeni Syndrome
+Pick Disease of the Brain	Multiple System Atrophy
+Limb Deformities Congenital	Syndactyly
+Metabolic Diseases	Hyperlipidemia Familial Combined
+Metabolic Syndrome X	Lipid Metabolism Disorders
+Epilepsies Partial	Lissencephaly
+Personality Disorders	Mood Disorders
+Tremor	Essential Tremor
+Substance Withdrawal Syndrome	Substance-Related Disorders
+Hypopituitarism	Insulin Resistance
+Bulbo-Spinal Atrophy X-Linked	Motor Neuron Disease
+Psychotic Disorders	Psychoses Substance-Induced
+Ovarian Hyperstimulation Syndrome	Venous Thrombosis
+Homocystinuria	Amino Acid Metabolism Inborn Errors
+Asbestosis	Hypersensitivity
+Vasculitis	alpha 1-Antitrypsin Deficiency
+Rubinstein-Taybi Syndrome	Antisocial Personality Disorder
+Pulmonary Alveolar Proteinosis	Lung Diseases Interstitial
+Aortic Aneurysm	Thrombosis
+alpha 1-Antitrypsin Deficiency	Vasculitis
+Epilepsies Myoclonic	Epilepsies Partial
+Schistosomiasis mansoni	Inflammatory Bowel Diseases
+Osteogenesis Imperfecta	Osteosclerosis
+Lung Diseases Obstructive	Pulmonary Emphysema
+Fatty Liver	Hyperlipoproteinemias
+Pre-Eclampsia	Hematuria
+Schizophrenia	Alcohol Withdrawal Delirium
+Muscular Dystrophy Duchenne	Muscular Dystrophies Limb-Girdle
+Tachycardia Ventricular	Arrhythmogenic Right Ventricular Dysplasia
+Romano-Ward Syndrome	Ventricular Fibrillation
+Polycystic Kidney Diseases	Polycystic Kidney Autosomal Dominant
+Wiskott-Aldrich Syndrome	Bernard-Soulier Syndrome
+Neutropenia	Staphylococcal Infections
+Intestinal Polyps	Peutz-Jeghers Syndrome
+Bradycardia	Tachycardia Ventricular
+Corneal Opacity	Refractive Errors
+Muscular Dystrophy Emery-Dreifuss	Muscular Dystrophy Facioscapulohumeral
+Hyperalgesia	Leishmaniasis Cutaneous
+Tachycardia	Torsades de Pointes
+Brucellosis	Malaria
+Neurotoxicity Syndromes	Substance-Related Disorders
+Pleural Diseases	Asthma
+Brain Neoplasms	Epilepsies Partial
+Nephrosis	Fibrosis
+Retinal Diseases	Keratoconus
+Venous Thromboembolism	Hyperhomocysteinemia
+Myocardial Reperfusion Injury	Endotoxemia
+Carcinoma Small Cell	Neoplasms Germ Cell and Embryonal
+Periodontitis	Thrombasthenia
+Intracranial Hemorrhages	Cerebral Hemorrhage
+Schistosomiasis	Nephritis Interstitial
+Carcinoma Lewis Lung	Acquired Immunodeficiency Syndrome
+Dyskeratosis Congenita	Cockayne Syndrome
+Thrombasthenia	Blood Platelet Disorders
+Fatty Liver	Dyslipidemias
+Lipoma	Soft Tissue Neoplasms
+Ventricular Fibrillation	Syncope
+Phenylketonurias	Amino Acid Metabolism Inborn Errors
+Thromboembolism	Thrombosis
+Blood Platelet Disorders	Thrombasthenia
+Nephrotic Syndrome	Nephrosis
+Intestinal Neoplasms	Gastrointestinal Neoplasms
+Andersen Syndrome	Muscular Dystrophy Duchenne
+Pulmonary Embolism	Asbestosis
+Thalassemia	alpha-Thalassemia
+Congenital Hypothyroidism	Hypothyroidism
+Multiple Organ Failure	Sepsis
+Pulmonary Emphysema	Lung Diseases Obstructive
+Retinal Degeneration	Retinal Dystrophies
+Peripheral Vascular Diseases	Thromboembolism
+Epilepsies Partial	Neurotoxicity Syndromes
+Gout	Hyperlipoproteinemias
+Macrocephaly	Tuberous Sclerosis
+Pleural Diseases	Bronchial Hyperreactivity
+Blood Coagulation Disorders	Thrombasthenia
+Albinism	Congenital Hypothyroidism
+Leprosy	Sarcoidosis
+Cardiomyopathy Hypertrophic Familial	Cardiomyopathy Dilated
+Oral Submucous Fibrosis	Nasopharyngeal Neoplasms
+Carcinoma Small Cell	Rectal Neoplasms
+Parathyroid Neoplasms	Rickets
+Multiple System Atrophy	Pick Disease of the Brain
+Epilepsies Myoclonic	Myoclonus
+Pulmonary Fibrosis	Lung Diseases Interstitial
+Agammaglobulinemia	Hypergammaglobulinemia
+Tauopathies	Pick Disease of the Brain
+Cholangitis Sclerosing	Drug Eruptions
+Pre-Eclampsia	Abortion Habitual
+Metabolic Syndrome X	Venous Thromboembolism
+Gout	Hyperuricemia
+Polydactyly	Hypospadias
+Glomerulonephritis Membranoproliferative	Glomerulonephritis
+Leprosy	Uveitis
+Urogenital Abnormalities	Hypospadias
+Staphylococcal Infections	Neutropenia
+Fabry Disease	Schistosomiasis
+Dyskeratosis Congenita	Werner Syndrome
+Rubinstein-Taybi Syndrome	Anophthalmos
+Osteochondrodysplasias	Rubinstein-Taybi Syndrome
+Hyperuricemia	Hyperlipoproteinemias
+Enterocolitis	Irritable Bowel Syndrome
+Endotoxemia	Respiratory Distress Syndrome Adult
+Albuminuria	Diabetes Mellitus Experimental
+Cataract	Refractive Errors
+Polydactyly	Syndactyly
+Atrial Fibrillation	Atrioventricular Block
+Severe Acute Respiratory Syndrome	Infection
+Migraine with Aura	Cerebral Hemorrhage
+Cardiomyopathy Hypertrophic Familial	Aortic Aneurysm
+Androgen-Insensitivity Syndrome	Acne Vulgaris
+Rett Syndrome	Klinefelter Syndrome
+Calcinosis	Thromboembolism
+Soft Tissue Neoplasms	Lipoma
+Venous Thrombosis	Gout
+Lung Neoplasms	Pleural Diseases
+Heart Diseases	Thromboembolism
+Ciliary Motility Disorders	Kartagener Syndrome
+Liver Neoplasms Experimental	Neoplasms Experimental
+Hyperlipoproteinemias	Hypercholesterolemia
+Cardiomegaly	Myocardial Reperfusion Injury
+Neoplasm Recurrence Local	Lymphatic Metastasis
+Neurotoxicity Syndromes	Epilepsies Partial
+Heroin Dependence	Premature Birth
+Amino Acid Metabolism Inborn Errors	Homocystinuria
+Hyperlipidemia Familial Combined	Lipodystrophy
+Muscular Dystrophies Limb-Girdle	Myopathies Nemaline
+Carcinoma Transitional Cell	Neoplasm Recurrence Local
+Werner Syndrome	Progeria
+Lung Diseases Interstitial	Pulmonary Fibrosis
+Myoclonic Epilepsies Progressive	Unverricht-Lundborg Syndrome
+Sinusitis	Rhinitis
+Cerebrovascular Disorders	Intracranial Aneurysm
+Disorders of Sex Development	Androgen-Insensitivity Syndrome
+Lung Diseases Interstitial	Pulmonary Alveolar Proteinosis
+Rectal Neoplasms	Colonic Polyps
+Retinal Detachment	Retinal Vein Occlusion
+Hypertriglyceridemia	Insulin Resistance
+Cardiomyopathy Hypertrophic Familial	Wolff-Parkinson-White Syndrome
+Thrombasthenia	Hemorrhagic Disorders
+Glomerulonephritis Membranoproliferative	Nephrotic Syndrome
+Carcinoma Small Cell	Lymphatic Metastasis
+Hypotension	Atrial Fibrillation
+Blood Coagulation Disorders	Hemorrhagic Disorders
+Soft Tissue Neoplasms	Breast Diseases
+Myocardial Reperfusion Injury	Cardiomegaly
+Lipodystrophy	Acanthosis Nigricans
+Brain Ischemia	Hypoxia-Ischemia Brain
+Retinal Dystrophies	Retinal Degeneration
+Severe Combined Immunodeficiency	Hypergammaglobulinemia
+Muscular Dystrophies Limb-Girdle	Muscular Dystrophy Emery-Dreifuss
+Atherosclerosis	Hyperlipidemia Familial Combined
+Dyslipidemias	Hyperlipoproteinemias
+Ventricular Fibrillation	Torsades de Pointes
+Hyperprolactinemia	Acanthosis Nigricans
+Glomerulonephritis Membranoproliferative	Hematuria
+Hypercalcemia	Polyuria
+Arteriosclerosis	Lipid Metabolism Disorders
+Insulin Resistance	Venous Thromboembolism
+Torsades de Pointes	Long QT Syndrome
+Disseminated Intravascular Coagulation	Hemorrhagic Disorders
+Lymphatic Diseases	Hypergammaglobulinemia
+Insulin Resistance	Hypopituitarism
+Rectal Neoplasms	Neuroendocrine Tumors
+Sciatic Neuropathy	Arthritis Experimental
+Colonic Polyps	Multiple Endocrine Neoplasia
+Bacteremia	Pneumococcal Infections
+Polycythemia	Hypotension
+Respiratory Hypersensitivity	Rhinitis
+Respiratory Hypersensitivity	Bronchiectasis
+Macrocephaly	Xeroderma Pigmentosum
+Microvascular Angina	Coronary Restenosis
+Nerve Degeneration	Pick Disease of the Brain
+Iron Overload	Hypertriglyceridemia
+Polycystic Kidney Autosomal Dominant	Hematuria
+Venous Thromboembolism	Hypercholesterolemia
+Hypergammaglobulinemia	Agammaglobulinemia
+Hypercholesterolemia	Dyslipidemias
+Gout	Uterine Neoplasms
+Hyperlipidemia Familial Combined	Hypercholesterolemia
+Atrial Fibrillation	Long QT Syndrome
+Cardiomyopathy Hypertrophic Familial	Tachycardia Ventricular
+Intestinal Polyps	Gastrinoma
+Psychoses Substance-Induced	Lewy Body Disease
+Bradycardia	Arrhythmogenic Right Ventricular Dysplasia
+Polycythemia	Respiratory Distress Syndrome Adult
+Homocystinuria	Angelman Syndrome
+Epilepsies Partial	Substance-Related Disorders
+Arthritis Experimental	Sciatic Neuropathy
+Long QT Syndrome	Atrioventricular Block
+Epilepsy Generalized	Epilepsies Myoclonic
+Rickets	Hypoparathyroidism
+Angina Pectoris	Coronary Artery Disease
+Uterine Neoplasms	Insulin Resistance
+Spinal Diseases	Intervertebral Disk Displacement
+Hyperparathyroidism	Parathyroid Neoplasms
+Glomerulonephritis	Glomerulonephritis Membranoproliferative
+Pick Disease of the Brain	Nerve Degeneration
+Niemann-Pick Disease Type C	Pick Disease of the Brain
+Torsades de Pointes	Atrial Fibrillation
+Hypertriglyceridemia	Dyslipidemias
+Carotid Artery Diseases	Carotid Stenosis
+Hyperhomocysteinemia	Venous Thromboembolism
+Venous Thromboembolism	Atherosclerosis
+Essential Tremor	Movement Disorders
+Schistosomiasis mansoni	Celiac Disease
+Arrhythmogenic Right Ventricular Dysplasia	Ventricular Fibrillation
+Dermatitis Atopic	Hypersensitivity
+Wiskott-Aldrich Syndrome	Thrombasthenia
+Dyslipidemias	Venous Thromboembolism
+Celiac Disease	Intestinal Polyps
+Torsades de Pointes	Arrhythmogenic Right Ventricular Dysplasia
+Hypotension	Arrhythmogenic Right Ventricular Dysplasia
+Insulin Resistance	Gout
+Pulmonary Fibrosis	Bronchiolitis Obliterans
+Insulin Resistance	Hyperlipoproteinemias
+Pulmonary Embolism	Cardiomyopathy Hypertrophic Familial
+Thromboembolism	Thrombophilia
+Colonic Polyps	Cystadenocarcinoma Serous
+Long QT Syndrome	Atrial Fibrillation
+Hypotension Orthostatic	Ventricular Fibrillation
+Lipodystrophy	Hyperlipoproteinemias
+Syncope	Cardiomyopathy Hypertrophic Familial
+Homocystinuria	Craniofacial Abnormalities
+Hemangiosarcoma	Pleural Diseases
+Insulin Resistance	Uterine Neoplasms
+Bulbo-Spinal Atrophy X-Linked	Muscular Dystrophy Oculopharyngeal
+Choroideremia	Retinal Degeneration
+Hyperemia	Ischemia
+Intracranial Aneurysm	Demyelinating Diseases
+Epilepsies Partial	Substance Withdrawal Syndrome
+Ischemia	Thromboembolism
+Gastrointestinal Diseases	Peptic Ulcer
+Staphylococcal Infections	Brucellosis
+Thrombophilia	Thrombosis
+Hypergammaglobulinemia	Lymphatic Diseases
+Cushing Syndrome	Venous Thromboembolism
+alpha-Thalassemia	Hydrops Fetalis
+Epilepsy	Epilepsies Partial
+Testicular Neoplasms	Neoplasms Germ Cell and Embryonal
+Thrombocytosis	Thrombocythemia Essential
+Ischemia	Aortic Aneurysm Abdominal
+Atherosclerosis	Hyperlipoproteinemias
+Rubinstein-Taybi Syndrome	Developmental Disabilities
+Hypercholesterolemia	Hyperuricemia
+Rubinstein-Taybi Syndrome	Klinefelter Syndrome
+Hypotension	Ventricular Fibrillation
+Neuroendocrine Tumors	Rectal Neoplasms
+Tachycardia	Cardiomyopathy Hypertrophic Familial
+Intracranial Aneurysm	Cerebrovascular Disorders
+Behcet Syndrome	Aortic Aneurysm Thoracic
+Hypocalcemia	Hypoparathyroidism
+Night Blindness	Retinitis Pigmentosa
+Ventricular Fibrillation	Cardiomyopathy Hypertrophic Familial
+Coronary Aneurysm	Angina Pectoris
+Lymphangioleiomyomatosis	Hemangiosarcoma
+Collagen Diseases	Hemolytic-Uremic Syndrome
+Carcinoma Small Cell	Gastrointestinal Neoplasms
+Respiratory Hypersensitivity	Hypersensitivity
+Thromboembolism	Vascular Diseases
+Lipid Metabolism Disorders	Insulin Resistance
+Torsades de Pointes	Cardiomyopathy Hypertrophic Familial
+Nephrosis	Glomerulonephritis
+Aortic Rupture	Pulmonary Embolism
+Hydrops Fetalis	alpha-Thalassemia
+Hypercholesterolemia	Hypertriglyceridemia
+Angina Pectoris	Coronary Aneurysm
+Hyperlipoproteinemias	Hyperglycemia
+Asbestosis	alpha 1-Antitrypsin Deficiency
+Carcinoma Small Cell	Neoplasm Recurrence Local
+Lymphangioleiomyomatosis	Aortic Aneurysm Thoracic
+Atrial Fibrillation	Ventricular Fibrillation
+Gastrinoma	Celiac Disease
+Hyperlipoproteinemias	Hyperinsulinism
+Hyperlipoproteinemias	Hyperlipidemia Familial Combined
+Arrhythmogenic Right Ventricular Dysplasia	Tachycardia
+Diabetic Angiopathies	Diabetes Mellitus Experimental
+Drug Eruptions	Urticaria
+Hyperlipoproteinemias	Lipid Metabolism Disorders
+Diabetic Angiopathies	Diabetic Retinopathy
+Schistosomiasis mansoni	Intestinal Polyps
+Aneurysm	Aortic Aneurysm Thoracic
+Rectal Neoplasms	Intestinal Neoplasms
+Ventricular Fibrillation	Atrial Fibrillation
+Long QT Syndrome	Arrhythmogenic Right Ventricular Dysplasia
+Retinal Diseases	Night Blindness
+Tachycardia Ventricular	Heart Diseases
+Eye Abnormalities	Refractive Errors
+Respiratory Hypersensitivity	Bronchial Hyperreactivity
+Torsades de Pointes	Tachycardia Ventricular
+Pulmonary Embolism	alpha 1-Antitrypsin Deficiency
+Heart Diseases	Angina Pectoris
+Esophageal Atresia	Tracheoesophageal Fistula
+Rectal Neoplasms	Ileitis
+Syncope	Arrhythmogenic Right Ventricular Dysplasia
+Migraine Disorders	Migraine with Aura
+Pick Disease of the Brain	Parkinsonian Disorders
+alpha-Thalassemia	Thalassemia
+Glycogen Storage Disease	Mental Retardation X-Linked
+Thromboembolism	Ischemia
+Intestinal Neoplasms	Peutz-Jeghers Syndrome
+Tachycardia Ventricular	Torsades de Pointes
+Bronchiolitis Obliterans	Pulmonary Fibrosis
+Atrial Fibrillation	Syncope
+Migraine with Aura	Intracranial Aneurysm
+Wiskott-Aldrich Syndrome	Autoimmune Lymphoproliferative Syndrome
+Syndactyly	Hypospadias
+Lung Diseases Obstructive	Respiratory Distress Syndrome Adult
+Lipid Metabolism Disorders	Hypercholesterolemia
+Hemorrhagic Disorders	Thrombasthenia
+Acne Vulgaris	Acanthosis Nigricans
+Granuloma	Behcet Syndrome
+Venous Thromboembolism	Metabolic Syndrome X
+Esophageal Neoplasms	Stomach Diseases
+Hemolytic-Uremic Syndrome	Collagen Diseases
+Atrioventricular Block	Tachycardia Ventricular
+Hyperlipoproteinemias	Arteriosclerosis
+Arrhythmogenic Right Ventricular Dysplasia	Atrial Fibrillation
+Cardiomyopathies	Cardiomyopathy Hypertrophic Familial
+Nephrolithiasis	Nephrocalcinosis
+Exanthema	Drug Eruptions
+Cafe-au-Lait Spots	Neurofibromatoses
+Hypotension	Tachycardia
+Heart Diseases	Ventricular Fibrillation
+Cardiomyopathy Hypertrophic Familial	Torsades de Pointes
+Neurilemmoma	Salivary Gland Neoplasms
+Retinal Vein Occlusion	Retinal Detachment
+Behcet Syndrome	Granuloma
+Hyperprolactinemia	Cushing Syndrome
+Alopecia	Acne Vulgaris
+Fatty Liver	Hypertriglyceridemia
+Rett Syndrome	Panic Disorder
+Insulin Resistance	Cushing Syndrome
+Venous Thromboembolism	Fatty Liver
+Uterine Neoplasms	Gout
+Atrioventricular Block	Atrial Fibrillation
+Stevens-Johnson Syndrome	Measles
+Tachycardia	Arrhythmogenic Right Ventricular Dysplasia
+Homocystinuria	Marfan Syndrome
+Cafe-au-Lait Spots	Fanconi Anemia
+Tachycardia	Ventricular Fibrillation
+Muscular Dystrophy Duchenne	Andersen Syndrome
+Nephritis Interstitial	Schistosomiasis
+Blepharophimosis	Rubinstein-Taybi Syndrome
+Dyslipidemias	Hyperlipidemia Familial Combined
+Rickets	Hyperparathyroidism
+Prenatal Exposure Delayed Effects	Pre-Eclampsia
+Rubinstein-Taybi Syndrome	Hypospadias
+Sarcoidosis	Leprosy
+Rubinstein-Taybi Syndrome	Growth Disorders
+Motor Neuron Disease	Bulbo-Spinal Atrophy X-Linked
+Anorexia Nervosa	Bulimia Nervosa
+Lipid Metabolism Disorders	Lipodystrophy
+Myopia	Retinal Detachment
+Parathyroid Neoplasms	Hyperparathyroidism
+Hyperhomocysteinemia	Thromboembolism
+Tauopathies	Nerve Degeneration
+Aneurysm Dissecting	Calcinosis
+Tachycardia Ventricular	Bradycardia
+Nerve Degeneration	Tauopathies
+Acne Vulgaris	Amenorrhea
+Reperfusion Injury	Ischemia
+Familial Mediterranean Fever	Hypergammaglobulinemia
+Cholelithiasis	Hypertriglyceridemia
+Chromosome Breakage	Xeroderma Pigmentosum
+Leishmaniasis Cutaneous	Arthritis Experimental
+Rhinitis	Sinusitis
+Cardiomyopathy Hypertrophic Familial	Arrhythmogenic Right Ventricular Dysplasia
+Aortic Aneurysm Abdominal	Ischemia
+Refractive Errors	Cataract
+Myocardial Reperfusion Injury	Hypotension
+Gout	Dyslipidemias
+Retinal Degeneration	Night Blindness
+Cholelithiasis	Fatty Liver
+Calcinosis	Aortic Valve Stenosis
+Venous Thromboembolism	Dyslipidemias
+Panic Disorder	Rett Syndrome
+Migraine with Aura	Migraine Disorders
+Pulmonary Embolism	Aortic Rupture
+Rubinstein-Taybi Syndrome	Nevus
+Colonic Polyps	Intestinal Polyps
+Bradycardia	Long QT Syndrome
+Calcinosis	Aneurysm Dissecting
+Nerve Degeneration	Dementia
+HIV Infections	Schistosomiasis mansoni
+Wolff-Parkinson-White Syndrome	Cardiomyopathy Hypertrophic Familial
+Long QT Syndrome	Cardiomyopathy Hypertrophic Familial
+Mental Retardation X-Linked	Glycogen Storage Disease
+Schistosomiasis mansoni	HIV Infections
+Aortic Valve Stenosis	Angina Pectoris
+Ventricular Fibrillation	Hypotension
+Thymus Neoplasms	Mesothelioma
+alpha 1-Antitrypsin Deficiency	Pulmonary Emphysema
+Neoplasms Experimental	Liver Neoplasms Experimental
+Neoplasm Recurrence Local	Head and Neck Neoplasms
+Breast Diseases	Soft Tissue Neoplasms
+Gonadal Dysgenesis	Hypospadias
+Microcephaly	Lissencephaly
+Hyperlipoproteinemias	Venous Thromboembolism
+Tachycardia Ventricular	Cardiomyopathies
+Bradycardia	Cardiomyopathy Hypertrophic Familial
+Sciatic Neuropathy	Hyperalgesia
+Aortic Aneurysm	Aneurysm
+Mammary Neoplasms Experimental	Myocardial Reperfusion Injury
+Lipodystrophy	Hyperprolactinemia
+Polydactyly	Macrocephaly
+Reperfusion Injury	Respiratory Distress Syndrome Adult
+Romano-Ward Syndrome	Long QT Syndrome
+Muscular Dystrophies Limb-Girdle	Muscular Atrophy
+Osteosclerosis	Osteogenesis Imperfecta
+Lipid Metabolism Disorders	Dyslipidemias
+Epilepsy Generalized	Myoclonic Epilepsy Juvenile
+Thromboembolism	Hyperhomocysteinemia
+Premature Birth	Heroin Dependence
+Ileitis	Rectal Neoplasms
+Substance-Related Disorders	Anorexia Nervosa
+Heart Diseases	Coronary Restenosis
+Alcohol Withdrawal Delirium	Schizophrenia
+Hemolytic-Uremic Syndrome	Thrombosis
+Movement Disorders	Essential Tremor
+Intestinal Polyps	Celiac Disease
+Neutropenia	Leukopenia
+Cognition Disorders	Memory Disorders
+Lipodystrophy	Lipid Metabolism Disorders
+Pre-Eclampsia	Glomerulonephritis Membranoproliferative
+Behcet Syndrome	Sarcoidosis
+Tachycardia Ventricular	Ventricular Fibrillation
+Myxoma	Aortic Aneurysm
+Rubinstein-Taybi Syndrome	Autistic Disorder
+Endotoxemia	Myocardial Reperfusion Injury
+Coronary Restenosis	Thromboembolism
+Pleural Diseases	Respiratory Hypersensitivity
+Alcohol Withdrawal Delirium	Psychotic Disorders
+Aortic Aneurysm	Cardiomyopathy Hypertrophic Familial
+Tachycardia Ventricular	Romano-Ward Syndrome
+Cardiomyopathy Dilated	Cardiomyopathy Hypertrophic Familial
+Klinefelter Syndrome	Rubinstein-Taybi Syndrome
+Nephrotic Syndrome	Glomerulonephritis Membranoproliferative
+Andersen Syndrome	Myopathies Nemaline
+Thrombosis	Peripheral Vascular Diseases
+Substance-Related Disorders	Epilepsies Partial
+Aneurysm Dissecting	Aortic Aneurysm
+Refractive Errors	Corneal Opacity
+Adenomatous Polyposis Coli	Intestinal Polyps
+Insulin Resistance	Hypertriglyceridemia
+Fetal Diseases	Pregnancy Complications
+Arteriosclerosis	Hyperlipidemia Familial Combined
+Pick Disease of the Brain	Tauopathies
+Rectal Neoplasms	Gastrointestinal Neoplasms
+Venous Thromboembolism	Acute Coronary Syndrome
+Acute Coronary Syndrome	Venous Thromboembolism
+Endotoxemia	Sepsis
+Testicular Neoplasms	Carcinoma Small Cell
+Pyruvate Carboxylase Deficiency Disease	Rubinstein-Taybi Syndrome
+Hematuria	Polycystic Kidney Autosomal Dominant
+Thromboembolism	Coronary Aneurysm
+Macrocephaly	Polydactyly
+Ventricular Fibrillation	Long QT Syndrome
+Cerebral Hemorrhage	Intracranial Hemorrhages
+Basal Ganglia Diseases	Dystonia
+Tauopathies	Parkinsonian Disorders
+Endometrial Hyperplasia	Uterine Neoplasms
+Leishmaniasis Cutaneous	Sciatic Neuropathy
+Hypotension	Polycythemia
+Tachycardia Ventricular	Syncope
+Hyperlipidemia Familial Combined	Insulin Resistance
+Polycystic Kidney Autosomal Dominant	Glomerulonephritis Membranoproliferative
+Neurofibromatoses	Neurofibromatosis 1
+Inflammation	Leishmaniasis Cutaneous
+Rickets	Hypocalcemia
+Muscular Dystrophies Limb-Girdle	Muscular Dystrophy Facioscapulohumeral
+Chromosome Aberrations	Xeroderma Pigmentosum
+Pulmonary Emphysema	Asbestosis
+Limb Deformities Congenital	Blepharophimosis
+Lipid Metabolism Disorders	Metabolic Diseases
+Keloid	Drug Eruptions
+Muscular Dystrophy Facioscapulohumeral	Muscular Dystrophy Emery-Dreifuss
+Hypergammaglobulinemia	Severe Combined Immunodeficiency
+Angina Pectoris	Myocardial Infarction
+Venous Thrombosis	Ovarian Hyperstimulation Syndrome
+Schistosomiasis mansoni	Crohn Disease
+Growth Disorders	Failure to Thrive
+Basal Ganglia Diseases	Movement Disorders
+Heroin Dependence	Hypoglycemia
+Choroideremia	Eye Abnormalities
+Memory Disorders	Cognition Disorders
+Atrial Fibrillation	Torsades de Pointes
+Angina Pectoris	Heart Diseases
+Infertility	Amenorrhea
+Fetal Growth Retardation	Heroin Dependence
+Cushing Syndrome	Prader-Willi Syndrome
+Cockayne Syndrome	Dyskeratosis Congenita
+Nephrocalcinosis	Nephrolithiasis
+alpha 1-Antitrypsin Deficiency	Asbestosis
+Long QT Syndrome	Tachycardia Ventricular
+Polycystic Kidney Autosomal Dominant	Polycystic Kidney Diseases
+Rectal Neoplasms	Gastrinoma
+Intestinal Polyps	Colonic Polyps
+Tachycardia Ventricular	Tachycardia
+Night Blindness	Retinal Degeneration
+Agammaglobulinemia	Lymphatic Diseases
+Hyperlipidemia Familial Combined	Arteriosclerosis
+Panic Disorder	Anxiety Disorders
+Respiratory Tract Infections	Hypersensitivity
+Lewy Body Disease	Psychoses Substance-Induced
+Protein C Deficiency	Protein S Deficiency
+Pulmonary Emphysema	alpha 1-Antitrypsin Deficiency
+Hemangiosarcoma	Aortic Aneurysm
+Nephrolithiasis	Hypophosphatemia
+Proteinuria	Nephrotic Syndrome
+Amenorrhea	Cushing Syndrome
+Mental Retardation X-Linked	Zellweger Syndrome
+Hemophilia B	Hemophilia A
+Congenital Hypothyroidism	Albinism
+Acanthosis Nigricans	Lipodystrophy
+Coronary Restenosis	Angina Pectoris
+Aortic Aneurysm	Aneurysm Dissecting
+Epilepsies Myoclonic	Epilepsy Generalized
+Muscular Dystrophy Facioscapulohumeral	Muscular Dystrophies Limb-Girdle
+Tuberculosis	Brucellosis
+Cardiomegaly	Diabetic Cardiomyopathies
+Acquired Immunodeficiency Syndrome	Carcinoma Lewis Lung
+Ventricular Fibrillation	Arrhythmogenic Right Ventricular Dysplasia
+Frontotemporal Lobar Degeneration	Dementia
+Chromosome Aberrations	Chromosome Breakage
+Uterine Neoplasms	Endometrial Hyperplasia
+Pregnancy Complications	Fetal Diseases
+Endometrial Hyperplasia	Endometrial Neoplasms
+Fatty Liver	Venous Thromboembolism
+Megacolon	Hirschsprung Disease
+Myocardial Infarction	Angina Pectoris
+Dyslipidemias	Insulin Resistance
+Anxiety Disorders	Personality Disorders
+Aortic Aneurysm Thoracic	Hemorrhage
+Hyperlipidemia Familial Combined	Dyslipidemias
+Hemorrhage	Aortic Aneurysm Thoracic
+Epilepsy Rolandic	Epilepsy Temporal Lobe
+Retinal Detachment	Myopia
+Romano-Ward Syndrome	Tachycardia Ventricular
+Parkinsonian Disorders	Essential Tremor
+Hyperlipidemia Familial Combined	Metabolic Syndrome X
+Gout	Hypercholesterolemia
+Leukopenia	Neutropenia
+Muscle Weakness	Myopathies Nemaline
+Pulmonary Embolism	Aortic Aneurysm
+Hypercholesterolemia	Hyperlipoproteinemias
+Androgen-Insensitivity Syndrome	Ovarian Diseases
+Low Tension Glaucoma	Glaucoma Open-Angle
+Gynecomastia	Disorders of Sex Development
+Hyperuricemia	Hypertriglyceridemia
+Respiratory Distress Syndrome Adult	Lung Diseases Obstructive
+Insulin Resistance	Hyperlipidemia Familial Combined

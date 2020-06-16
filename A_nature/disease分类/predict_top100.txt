@@ -1,0 +1,20 @@
+Venous Thromboembolism	Angina Unstable	0.999999998
+Carotid Stenosis	Venous Thromboembolism	0.999999997
+Carotid Stenosis	Hemorrhage	0.999999995
+Glomerulonephritis	Venous Thromboembolism	0.999999994
+Carotid Stenosis	Coronary Stenosis	0.999999993
+Hemolytic-Uremic Syndrome	Thrombophilia	0.999999992
+Carotid Stenosis	Angina Unstable	0.99999999
+Venous Thromboembolism	Dementia Vascular	0.999999988
+Glomerulonephritis	Aortic Aneurysm Thoracic	0.999999985
+Carotid Stenosis	Thrombophilia	0.999999984
+Venous Thromboembolism	Coronary Stenosis	0.999999984
+Hemorrhage	Thrombophilia	0.999999982
+Glomerulonephritis	Retinal Vein Occlusion	0.999999974
+Coronary Stenosis	Angina Unstable	0.999999973
+Femur Head Necrosis	Thrombophilia	0.999999972
+Thrombasthenia	Venous Thromboembolism	0.999999972
+Hemophilia A	Femur Head Necrosis	0.999999971
+Venous Thromboembolism	Respiratory Distress Syndrome Adult	0.999999968
+Carotid Stenosis	Angina Pectoris	0.999999965
+Venous Thromboembolism	Femur Head Necrosis	0.999999963
